@@ -17,10 +17,31 @@ Star the repo to keep the list in your GitHub feed. Looking for something else (
 Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-internships) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
 
 <!-- jobs:start -->
-**231 jobs**, updated 2026-10-11. Every one was confirmed on the employer's own career site in the last 3 days.
+**220 jobs**, updated 2026-10-12. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
+| Plant Technician I - Power | Iberdrola Group | OR | $28.50 to $41.25 hourly | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49997606) |
+| Mental Health Technician 1 Adolescent Psychiatry Nights | Inova | Falls Church, VA | $18.44–$30.06/hr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49942701) |
+| Early Career, Inside Sales Representative (2027) | Figma | CA • New York, NY | $26.96/hr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49878524) |
+| Campus Building Engineer | National Western Center | Denver, CO | $35.00 - $38.00/Hr | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49851056) |
+| Delivery Driver (ODU Campus )- Make up to $17+/hr with tips, flexible part-time shifts | Domino's | Norfolk, VA | $13-17/hr | Part-time | 2026-10-12 | [View](https://veritahire.com/j/49819773) |
+| Crime Scene Technician Trainee | Louisville Metro Government | KY | $43K | - | 2026-10-12 | [View](https://veritahire.com/j/49987388) |
+| Customer Service Associate I | Family Dollar | Show Low, AZ | - | Part-time | 2026-10-12 | [View](https://veritahire.com/j/50035628) |
+| Customer Service Associate 1 | Family Dollar | Haverhill, MA | - | Part-time | 2026-10-12 | [View](https://veritahire.com/j/50032472) |
+| 3rd Shift Technician I | Family Dollar | Ashley, IN | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50031082) |
+| Shop Technician - Entry Level, Mandan, ND | Stage 3 Separation | Mandan, ND | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/50007170) |
+| Sterile Processing Technician I | Tucson Medical Center | Tucson, AZ | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49979810) |
+| Driveline Technician I | FleetPride | LA | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49977627) |
+| Front End Specialist 1 Part Time | Ollie's Bargain Outlet | Bethlehem, PA | - | Part-time | 2026-10-12 | [View](https://veritahire.com/j/49907699) |
+| Early Career Decision | Bon Secours Mercy Health | OR | - | Contract | 2026-10-12 | [View](https://veritahire.com/j/49892764) |
+| Junior/Mid-level Forward Deployed Engineer | Legora | New York City, NY | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49881389) |
+| Accounts Receivable Specialist I | S&k Technologies, Inc. | Saint Ignatius, MT | - | Full-time | 2026-10-12 | [View](https://veritahire.com/j/49878393) |
+| Apprentice Meat Cutter | Harps Food Stores | Hot Springs National Park, AR | - | Part-time | 2026-10-12 | [View](https://veritahire.com/j/49848977) |
+| Pharmacy Technician - Entry Level | Meijer Great Lakes LP | South Westnedge Ave - Portage, MI | - | Part-time | 2026-10-12 | [View](https://veritahire.com/j/49803162) |
+| Systems Engineer - Early Career | Lockheed Martin | Littleton, CO | $65,500.00 - $121,700.00 | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49700777) |
+| Junior Operations Planner | Janicki Industries | Hamilton, WA | $28 - $35/hour | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49667389) |
+| Sales Associate I | Coach | MA | $15–$24.25/hr | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49644815) |
 | Client Service Representative - Business Insurance (Entry Level) | The Horton Group | IL | $35K–$65K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49612077) |
 | Entry Level Carpenter | Aerotek | Orchard Park, NY | $21–$25/hr | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49566282) |
 | Associate Software Engineer | Highmark Health | Remote (PA) | $68K | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49369476) |
@@ -34,16 +55,15 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Meat Cutter Apprentice | Albertsons | Sequim, WA | $17.38/hr | Part-time | 2026-10-11 | [View](https://veritahire.com/j/48960736) |
 | Apprentice Piercer | STUDS | CA | $24/hour | Part-time | 2026-10-11 | [View](https://veritahire.com/j/48957567) |
 | Quality Technician 1 - End of Line Inspector (EOL) | Cornerstone Building Brands | Vacaville, CA | $22.00 - $23.00 per hour | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48952994) |
+| Customer Service Associate I | Dollar Tree | Yuba City, CA | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/49769132) |
+| Quality Engineering Technician I - Electrode, Days A-Shift | Hussmann | Sparks, NV | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49642508) |
+| Quality Engineering Technician I - Electrode, Days C-Shift | Hussmann | Sparks, NV | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49642335) |
 | Jr. Analyst | Newmark | NY | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49576016) |
 | Automotive Apprentice / General Service Technician / Weekends Off / Bixby | Christian Brothers Automotive | Bixby, OK | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49555488) |
 | Junior Groomer | Petco | Media, PA | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/49547674) |
 | Pharmacy Technician / Pharm Tech Apprenticeship | Walgreens | ID | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49519241) |
 | Front End Entry Level | Albertsons | Novato, CA | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/49511809) |
-| Customer Service Associate I | Dollar Tree | Leander, TX | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/49284455) |
 | Maintenance Technician I | Legacy Partners | University Place, WA | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/49146651) |
-| Front End Specialist 1 Part Time | Ollie's Bargain Outlet | Slidell, LA | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/48965313) |
-| Front End Specialist 1 Part Time (Draft) | Ollie's Bargain Outlet | Houston, TX | - | Part-time | 2026-10-11 | [View](https://veritahire.com/j/48965231) |
-| Patient Access Specialist I | Wellstar Health System | Douglasville, GA | - | Full-time | 2026-10-11 | [View](https://veritahire.com/j/48955530) |
 | Work From Home / Hotel Reservationist / Entry Level | Destination | NY | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611966) |
 | Remote Events Coordinator - Entry Level | Destination | CA | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611935) |
 | Remote Booking & Scheduling Specialist / Entry Level | Destination | Baltimore, MD | - | - | 2026-10-11 | [View](https://veritahire.com/j/49611933) |
@@ -93,8 +113,8 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Nurse Practitioner or Physician Assistant - New Grad Program | One Medical | Manhattan, NY | $132K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48307512) |
 | Family Nurse Practitioner or Physician Assistant - New Graduation Program | One Medical | Brooklyn, NY | $132K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48307510) |
 | Quality Technician I | Toray Advanced Composites | Morgan Hill, CA | $25.00 - $28.00/hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48300135) |
-| New Grad RN Resident - Surgical ICU (SICU) | Cleveland Clinic | OH | $35.50/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48297342) |
-| New Grad RN Resident - Med/Surg & Post-Op Surgery | Cleveland Clinic | OH | $35.50/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48297341) |
+| New Grad RN Resident - Surgical ICU (SICU) | Cleveland Clinic | Cleveland, OH | $35.50/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48297342) |
+| New Grad RN Resident - Med/Surg & Post-Op Surgery | Cleveland Clinic | Cleveland, OH | $35.50/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48297341) |
 | ANALYST I | State of California | CA | $46,332 - $75,312/yr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48297286) |
 | RESEARCH DATA SPECIALIST I | State of California | CA | $83,460 - $104,472/yr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48295164) |
 | HEALTH PROGRAM SPECIALIST I | State of California | CA | $79,476 - $99,480/yr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48295152) |
@@ -136,11 +156,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Associate Engineer Technical Services | Mars Inc | Burr Ridge, IL | $75K–$102K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48064867) |
 | Modeling and Simulation Engineer, Junior | Booz Allen Hamilton | McLean, VA | $53K–$108K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48061163) |
 | Quality Control I (Entry Level) | Ufp Industries | Grandview, TX | $17.00/hour | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48040483) |
-| Production Associate I | Goodwill Industries, Inc. | Elkhorn, NE | $16.50/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48006385) |
-| Outpatient Therapist or Clinical Trainee | Canvas Health | Cambridge, MN | $60K–$80K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47992639) |
-| HB - NHC Trainee | Lennar | Colorado Springs, CO | $14.80–$19/hr | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47989226) |
-| Payment Analyst I | Child Development Associates | OH | $59,779.20 annually | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47989200) |
-| Customer Program Management Analyst 1 | Celestica | Remote (NH) | $61K–$81K | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47985780) |
 | BMET Trainee | Sodexo | SAINT PETERSBURG, FL | $23.50–$30.41/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48742147) |
 | Biomedical Equipment Technician 1 | Sodexo | GREENSBORO, NC | $27.05–$35/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48742129) |
 | Biomedical Sterilizer Equipment Technician 1 | Sodexo | GREENSBORO, NC | $23.50–$35/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48742128) |
@@ -156,14 +171,12 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Test Engineering Technician I - 2nd Shift with Pay Differential | Jabil | Prince George, VA | $21.73–$39.13/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48185982) |
 | SUDP Trainee-1 | Sea Mar Community Health Centers | CO | $26.22/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48175988) |
 | Transportation Specialist I | Partnership Healthplan of California | Redding, CA | $28.52–$33.51/hr | - | 2026-10-10 | [View](https://veritahire.com/j/48143358) |
-| Extension Program Coordinator (4-H) - University of Illinois Extension | A4le-association For Learning Environments | Hillsboro, IL | $43K | - | 2026-10-10 | [View](https://veritahire.com/j/47982204) |
 | Vitas Junior Representative | Vitas Healthcare | North Miami Beach, FL | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48919542) |
 | Certified Nurse Assistant, Nurse Assistant, or Apprentice - Adult Psych - Night Shift | CoxHealth | Branson, MO | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48732777) |
 | Entry Level Bank Teller (Chula Vista) | San Diego County Credit Union | Chula Vista, CA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48696560) |
 | Entry Level Bank Teller (Carlsbad) | San Diego County Credit Union | Carlsbad, CA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48696557) |
 | Physical Therapist (New Grad Mentor Program) - North Augusta, SC | Fox Rehabilitation | Columbia, SC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48657110) |
 | Physical Therapist (New Grad Mentor Program) - Summerville, SC | Fox Rehabilitation | Columbia, SC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48657108) |
-| Customer Service Associate I | Family Dollar | Oakdale, LA | - | Part-time | 2026-10-10 | [View](https://veritahire.com/j/48543378) |
 | Associate Analyst, Brokerage Operations | Fidelity Investments | Covington, KY | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48506114) |
 | Associate Analyst, Client Experience | Fidelity Investments | Westlake, TX | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48506057) |
 | HR/Payroll Specialist--Early Career | Pridestaff | Texas City, TX | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48484350) |
@@ -212,21 +225,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Registered Nurse (New Grad) Intermediate/Med Surg Stepdown Units - Float Pool | Duke University | Durham, NC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48111278) |
 | New Grad RN - Cardiothoracic Stepdown | Duke University | Durham, NC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48111150) |
 | Digital Marketing Specialist I | Boyd Gaming Bar Back | NV | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48055263) |
-| Associate Engineer Gas | Centerpoint Energy | IN | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48009787) |
-| Davenport Collection Specialist 1, Mobile Collections | Impactlife | Davenport, IA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48007068) |
-| Davenport Collection Specialist 1, Driver, Mobile Collections | Impactlife | Davenport, IA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48007067) |
-| Dubuque Collection Specialist 1, Mobile Collections | Impactlife | Dubuque, IA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48007066) |
-| Graduate Assistant | Cairn University | Langhorne, PA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48006999) |
-| Donor Center Technician 1 | Octapharma Plasma, Inc. | Oklahoma City, OK | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48004511) |
-| Clinical Laboratory Scientist 1 | Octapharma Plasma, Inc. | Charlotte, NC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/48004442) |
-| CPI Investigation Worker Trainee | Texas Health & Human Services Commission | BRYAN, TX | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47993958) |
-| Audio-Visual Systems Engineer 1 | Choice Hotels International | AZ | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47992574) |
-| Software Engineer 1 - Finance Technology | Choice Hotels International | AZ | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47992565) |
-| Registered Nurse (New Grad) Intermediate/Med Surg Stepdown Units - Float Pool | Duke Graduate and Professional Student Government (gpsg) | NC | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47992527) |
-| Lab Support Technician I (Non-Exempt) | SoutheastHEALTH | Fort Smith, AR | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47991824) |
-| Graduate Engineer I, Water / Wastewater | Halff | The Woodlands, TX | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47988152) |
-| Mechanical Technician 1 | JLL | Lansing, MI | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47986786) |
-| Surgical Instrument Repair Technician I | TRIMEDX | Pittsburgh, PA | - | Full-time | 2026-10-10 | [View](https://veritahire.com/j/47981701) |
 | Campus Fitness Center Crew (Federal & State Work Study Only) | The College of St. Scholastica (students) | Duluth, MN | - | - | 2026-10-10 | [View](https://veritahire.com/j/48689490) |
 | Engineering Technician I | Terracon | Lynnwood, WA | - | - | 2026-10-10 | [View](https://veritahire.com/j/48684221) |
 | Pre Professional Trainee | Nestle USA | Lima Cercado, OH | - | - | 2026-10-10 | [View](https://veritahire.com/j/48601252) |
@@ -239,19 +237,10 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Emergency Services Technician 1 - (Nights) | Franciscan Missionaries of Our Lady Health System | Jackson, MS | - | - | 2026-10-10 | [View](https://veritahire.com/j/48186046) |
 | IT Helpdesk Analyst I | Odyssey Systems | Wakefield, MA | - | - | 2026-10-10 | [View](https://veritahire.com/j/48182099) |
 | Financial Analyst I | Mri Living | Remote (AR) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48170954) |
-| Reset Developer 1 | Coca-cola Bottling Company United, Inc. | Savannah, GA | - | - | 2026-10-10 | [View](https://veritahire.com/j/48148622) |
-| Merchandiser Trainee M4 | Coca-cola Bottling Company United, Inc. | Vancleave, MS | - | - | 2026-10-10 | [View](https://veritahire.com/j/48148558) |
-| Artificial Intelligence Machine Learning Solutions Engineer I | Coca-cola Bottling Company United, Inc. | Charlotte, NC | - | - | 2026-10-10 | [View](https://veritahire.com/j/48148546) |
+| Learning Solutions Engineer I | Coca-cola Bottling Company United, Inc. | NC | - | - | 2026-10-10 | [View](https://veritahire.com/j/48148546) |
 | Production Associate 1 - 1st Shift (6:00 AM - 2:30 PM) | GE HealthCare | State College, PA | - | - | 2026-10-10 | [View](https://veritahire.com/j/48129028) |
 | Biomedical Equipment Technician 1 | GE HealthCare | Remote (GA) | - | - | 2026-10-10 | [View](https://veritahire.com/j/48128828) |
 | Route Trainee - UniFirst | Unifirst Corporation | Durham, NC | - | - | 2026-10-10 | [View](https://veritahire.com/j/48118789) |
-| Management Trainee | Landmark Credit Union | West Milwaukee, WI | - | - | 2026-10-10 | [View](https://veritahire.com/j/48008024) |
-| Clinic Travel Specialist I - Elim | Norton Sound Health Corporation | Nome, AK | - | - | 2026-10-10 | [View](https://veritahire.com/j/48006006) |
-| Earn $25.77 per hour! ENTRY LEVEL MANUFACTURING Cell Operator -- Multiple Shifts Available! | Hitchiner Manufacturing | Milford, NH | - | - | 2026-10-10 | [View](https://veritahire.com/j/47992521) |
-| Earn $25.77 per hour! ENTRY LEVEL MANUFACTURING Ceramic Core Operator -- Multiple Shifts Available! | Hitchiner Manufacturing | Milford, NH | - | - | 2026-10-10 | [View](https://veritahire.com/j/47992518) |
-| Earn $25.77 per hour! ENTRY LEVEL MANUFACTURING Foundry Operator -- Multiple Shifts Available! | Hitchiner Manufacturing | Milford, NH | - | - | 2026-10-10 | [View](https://veritahire.com/j/47992517) |
-| Claims Specialist I - Provider Claims | Iehp | CA | - | - | 2026-10-10 | [View](https://veritahire.com/j/47989768) |
-| Billing Specialist I | Md West One | Remote (NE) | - | - | 2026-10-10 | [View](https://veritahire.com/j/47986794) |
 <!-- jobs:end -->
 
 ## Data and reuse
