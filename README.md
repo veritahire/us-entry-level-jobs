@@ -17,24 +17,71 @@ around 2.9 million live jobs free at [veritahire.com](https://veritahire.com/sea
 Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-internships) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
 
 <!-- jobs:start -->
-**282 jobs**, updated 2026-11-01. Every one was confirmed on the employer's own career site in the last 3 days.
+**251 jobs**, updated 2026-11-02. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
+| Consultant - Defense & Security - IT Controls - Campus 2027 | Guidehouse | US - VA, VA | $56K–$94K | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74793475) |
+| Automotive Auction Check in Specialist I (Manheim) | Cox | CO | $16.63 - $24.90/hour | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74786404) |
+| EHS Engineer I | Axcelis Technologies | Beverly, MA | $61K–$91K | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74748111) |
+| Customer Service Associate I | Family Dollar | Ellaville, GA | - | Part-time | 2026-11-02 | [View](https://veritahire.com/j/74847747) |
+| Systems Engineer I - Business & Regional Programs (Onsite) | Raytheon | cedar rapids, IA | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74831141) |
+| Driver Trainee | Republic Brands | Stanford, KY | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74820146) |
+| Energy Tech Accelerator Graduate Program - Boston | Schneider Electric | Boston, MA | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74815236) |
+| Medical Management Specialist I | Elevance Health | WI | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74800406) |
+| Insurance Specialist I | Blue Ridge Cancer Care | Richardson, TX | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74764206) |
+| Registered Nurse (RN) New Graduate Residency Program | Tucson Medical Center | Tucson, AZ | - | Full-time | 2026-11-02 | [View](https://veritahire.com/j/74733852) |
+| Stylist in Training / Apprentice Stylist | Supercuts | JERSEY CITY, NJ | - | - | 2026-11-02 | [View](https://veritahire.com/j/74807570) |
+| Electrical Apprentice | Jf Petroleum Group | San Antonio, TX | - | - | 2026-11-02 | [View](https://veritahire.com/j/74615406) |
+| Catering Assistant - Becker Campus | The Good Shepherd Community | Shepherd of Grace - Becker, MN | $16.25 - $20.29 Hourly | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74591462) |
+| Retail Sales Ambassador - Sportswear Ready to Wear, University Town Center - FL - Full Time | Macy's | Sarasota, FL | $15.25 an hour | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74559137) |
+| Beauty Advisor - CHANEL Beaute, University Town Center CA- Full Time | Macy's | San Diego, CA | $18.00 an hour | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74559058) |
+| Retail Sales Associate, University Town Center - FL - Full Time | Macy's | Sarasota, FL | $15.25 an hour | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74558690) |
+| Electrical Pre-Commissioning Technician 1 | Dematic | Grand Rapids, MI | $44K–$60K | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74558048) |
+| Sanitation Technician Trainee | Lamb Weston | WA | $19.75/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74554473) |
+| Pharmacy Technician / Pharm Tech Apprenticeship | Walgreens | Richmond, VA | $17 - $23.25 / Hour | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74404766) |
+| Credit Analyst I - Private Banking | Flagstar Bank | Hicksville, NY | $47K–$79K | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74368424) |
+| Junior Groomer | Petco | Nassau, NY | $10.00 - $21.50 Hourly | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74243108) |
+| Teacher at Upper Elementary Campus | Ssi (us) Inc | Somerville, MA | $15.00 - $20.25 Hourly | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74235169) |
+| Front End Entry Level | Albertsons | Boise, ID | $17/hr | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74136281) |
+| APPRENTICE HVAC TECHNICIAN | Apollo Mechanical Contractors | WA | $25–$40/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74110593) |
+| 2027 Associate Software Engineer - Bellevue (NE) | Northrop Grumman | AL | $66K–$99K | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73971391) |
+| Clinical Technician 1 - Womens medical surgical | Inova | Falls Church, VA | $17.72–$28.30/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73932429) |
+| Clinical Technician 1 - ICU Surgical & Trauma | Inova | Leesburg, VA | $18.44–$30.06/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73932427) |
+| Nurse Residency - New Grad RN | Mayo Clinic | Rochester, MN | $40 - $80 an hour | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73926020) |
+| Membership Trainee (Mornings, Evenings, Weekends) - Hernando County^ | Ymca of the Suncoast | Spring Hill, FL | $15.50–$16.10/hr | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73878184) |
+| Hourly Pooled-Group Fitness Instructor/Personal Trainer - Campus Recreation | University of Wyoming | Laramie, WY | $12 - $20 an hour | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73815680) |
+| Maintenance Technician 1 - Upstream Distribution Center - DeKalb, IL | Target | Dekalb, IL | $33–$37/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73801514) |
+| Press Apprentice | Remedy Intelligent Staffing | Syracuse, NY | $17.5 per hour | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73705649) |
+| Jail Officer Entry Level (CD) | Hanover County | Hanover County, VA | $57K–$64K | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73611352) |
 | Entry Level Cleanroom Technician Starting ASAP | Aerotek | Buffalo Grove, IL | $18.50–$20.45/hr | Contract | 2026-11-01 | [View](https://veritahire.com/j/73591170) |
 | CONFIGURATION ANALYST 1 | Huntington Ingalls Industries | Newport News, VA | $53K–$67K | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73571717) |
-| Junior Groomer | Petco | Buena Park, CA | $10.00 - $21.50 Hourly | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73568748) |
 | Overnight Behavioral Health Associate 1 | Acadia Healthcare (Facility Jobs) | Scotts Valley, CA | $25–$26/hr | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73483132) |
-| Pharmacy Technician / Pharm Tech Apprenticeship | Walgreens | Burien, WA | $18–$21.50/hr | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73449861) |
-| Front End Entry Level | Albertsons | Littleton, CO | $16.76–$25.15/hr | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73446307) |
+| Wildland Fire & Resource Technician 1 - White Mountain Crewmember (PCN 10-N17090-99) | State of Alaska | Juneau, AK | $25.69/hr | - | 2026-11-01 | [View](https://veritahire.com/j/74080674) |
+| Entry Level Probation Officer | CPS HR Consulting (Client Recruitments) | Los Angeles, CA | $65K–$84K | - | 2026-11-01 | [View](https://veritahire.com/j/73754501) |
+| Retail: Customer Service Account Specialist I Bilingual English and Spanish Required | JPMorgan Chase | Heathrow, FL | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74573975) |
+| RN Med Surg - New Grads May Apply | HonorHealth | AZ | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74403465) |
+| Meat Trainee | Wegmans | Williamsville, NY | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74323644) |
+| Administrative Associate I | Lifescience Logistics | Brownsburg, IN | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/74082460) |
+| Customer Service Associate I | Dollar Tree | Muscle Shoals, AL | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/74080594) |
+| Entry Level General Production - Full-Time (2nd Shift) - Nashville AR - November | Tyson Foods, Inc | Nashville Plant - Nashville, AR | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73986175) |
+| New Grad Registered Nurse - Old Bridge Medical Center - Fall/Winter 2026 | Hackensack Meridian Health | Old Bridge, NJ | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73947658) |
+| New Grad Registered Nurse - Palisades Medical Center - Fall/Winter 2026 | Hackensack Meridian Health | North Bergen, NJ | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73947656) |
+| New Grad Registered Nurse - Raritan Bay Medical Center - Fall/Winter 2026 | Hackensack Meridian Health | Perth Amboy, NJ | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73947653) |
+| Contract Admin Analyst I | Endo | Hazelwood, MO | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73868306) |
+| Entry-Level Geotechnical Engineer | S&me | Indianapolis, IN | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73743407) |
+| Market Clerk (University Avenue) | Fareway Stores | Clive, IA | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73653319) |
+| Grocery Clerk (University Avenue) | Fareway Stores | Clive, IA | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73653159) |
+| Campus HVAC-Refrigeration Technician (Full-Time) | Fareway Stores | Boone, IA | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73652998) |
 | Documentation Specialist I | Fujifilm Holdings America Corporation | Durham, NC | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73620205) |
-| Jail Officer Entry Level (CD) | Hanover County | Hanover County, VA | - | Full-time | 2026-11-01 | [View](https://veritahire.com/j/73611352) |
-| Customer Service Associate I | Family Dollar | Winter Haven, FL | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73541223) |
-| Customer Service Associate I | Dollar Tree | Amsterdam, NY | - | Part-time | 2026-11-01 | [View](https://veritahire.com/j/73465187) |
+| Associate Data Scientist | Steampunk, Inc. | McLean, VA | - | - | 2026-11-01 | [View](https://veritahire.com/j/74465034) |
+| Painter- Entry level and Skilled | General Dynamics Electric Boat | North Kingstown, RI | - | - | 2026-11-01 | [View](https://veritahire.com/j/73794492) |
+| Shipfitter - Entry Level and Skilled | General Dynamics Electric Boat | North Kingstown, RI | - | - | 2026-11-01 | [View](https://veritahire.com/j/73794491) |
+| Work From Home / Hotel Reservationist / Entry Level | Aisles & Abroad | NY | - | - | 2026-11-01 | [View](https://veritahire.com/j/73672313) |
+| Travel Scheduling Coordinator / Remote / Entry Level | Aisles & Abroad | Atlanta | - | - | 2026-11-01 | [View](https://veritahire.com/j/73672303) |
+| Scheduling Coordinator / Entry Level / Remote | Aisles & Abroad | Remote (Tampa, FL) | - | - | 2026-11-01 | [View](https://veritahire.com/j/73672295) |
 | Travel Specialist / Work From Home / Entry Level | Destination | NC | - | - | 2026-11-01 | [View](https://veritahire.com/j/73611261) |
 | Certified Surgical Technician I, OR | Athol Memorial Hospital | Gardner, MA | $29.82–$38.24/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73313661) |
-| Clinical Technician 1 - Intermediate Care Unit | Inova | Alexandria, VA | $17.72–$28.30/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73303353) |
-| Clinical Technician 1 - Postpartum | Inova | Alexandria, VA | $17.72–$28.30/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73303351) |
 | Title Branding and Verification Specialist I | State of Oklahoma | OK | $44K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73232889) |
 | IT Business Analyst I-II | Texas A&m University-corpus Christi | Corpus Christi, TX | $50,000 - $62,573.04 Annually | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73203759) |
 | Auto Damage Trainee (Field) | GEICO | Cleveland, OH | $27.98–$43.75/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73191574) |
@@ -118,38 +165,7 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | R-872247 Facilities Technician 1 - Wednesday-Saturday 1:30 PM -12:00 AM - Cedar Rapids Fulfillment Center | Nordstrom | Cedar Rapids, IA | $19.25 - $32.25 Hourly | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72512528) |
 | Undergraduate Academic Advisor Trainee | California State University, Long Beach | CA | $50K–$61K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72509271) |
 | Transportation Management Center Specialist I - Seasonal | State of Maine (Executive Branch) | Augusta, ME | $18.49 - $25.36 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72501674) |
-| Graduate Research Assistant (0000GA11) | University of Hawai'i | Hilo, HI | $33K | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72485779) |
-| Entry-Level Operations Specialist (Medical Records) - New Grad Friendly | Aveanna Healthcare | Fort Lauderdale, FL | $18/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72485567) |
-| Graduate Enrollment Coordinator | University of Arkansas | Fayetteville, AR | $50K–$52K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72485272) |
-| Print Apprentice - 2nd or 3rd | Hallmark Cards | Leavenworth, KS | $24 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72484894) |
-| Early Career Geotechnical Engineer | GZA | Providence, RI | $69K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72480640) |
-| Stockroom Associate I | Bosch Group | Lincolnshire, IL | $18–$20/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72476523) |
-| Patient Care Technician I - Per Diem, Evenings 11am-11pm, ED, Atlantic Health Chilton Medical Center | Atlantic Health System | Pompton Plains, NJ | $22.07/hr | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72474482) |
-| Software Dev Engineer I | Altice USA | NY | $83,538.00 - $137,241.00 / year | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72466056) |
-| Junior Field Technician | Onterris Payroll, LLC | Remote (CA) | $25.00 - $35.00 per hour | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72463203) |
-| Quality Assurance Associate I - Environmental Lab | Onterris Payroll, LLC | CA | $22 to $27 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72463159) |
-| Academic Support Services Technician I | Cuyahoga Community College | Westlake, OH | $20.22/hr | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72460346) |
-| Warehouse Associate I | Standard Industries | New Columbia, PA | $27.03/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72457716) |
-| Design Specialist I- Non Grat | SiteWise | Henderson, CO | $20.00 - $22.00 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72457032) |
-| Electrical Trainee Lvl 1 | Rex Moore Group, Inc. | Rex Moore - Sacramento - Sacramento, CA | $19.58 - $39.38 Hourly | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72457020) |
-| Residential Care Associate I - 5870 | Columbiacare Services, Inc. | Portland, OR | $21.42 - $22.07 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72449850) |
-| Accounting Analyst I | Old Second National Bank | Downers Grove, IL | $52K–$66K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72448706) |
-| Emergency Medical Technician (EMT) Trainee | The City of Fort Worth | CT | $ 18.00 hourly | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72448560) |
-| Foodservice Technician Apprentice | Tech24 | Lynbrook, NY | $20-$23/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72447284) |
-| Quality Assurance Technician I | Elemental Brands | Reno, NV | $22.50 - $24.00/hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72446481) |
-| University Recruiter - (3 months contract) | National Life Insurance Company | TX; Montpelier, VT | $75K–$110K | Contract | 2026-10-31 | [View](https://veritahire.com/j/72446145) |
-| Associate Scientist - Bioanalysis | Eli Lilly | Watertown, MA | $72K–$216K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72434170) |
-| Quality Technician I - 2nd Shift | MSI Express | IL | $19.00 - $21.00 per hour | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72429059) |
-| Support Engineer 1 | Comcast | IL | $47K–$70K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72427436) |
-| Junior Treasury Analyst | Arroyo Consulting LLC | San Antonio, TX | $65K–$70K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72426046) |
-| WIC Nutrition Services Assistant (WNA Trainee Track) | Sdsurf | El Cajon, CA | $19.00 per hour | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72423990) |
-| Physical Therapist - New Graduate Opportunity | BAYADA Home Health Care | Cape May Court House, NJ | $55–$65/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72423067) |
-| Behavior Technician Trainee | BAYADA Home Health Care | Kihei, HI | $16 per hour | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72422997) |
-| Junior SEO Specialist | Fullsteam | Cedar Park, TX | $48K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72420283) |
-| Analyst I, Foreign Exchange Middle Office | First Citizens Bank | NY | $29.50–$39/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72415850) |
-| Administrative Program Assistant: Graduate Admissions Applicant Support APA | Oregon State University | OR | $20.98–$31.63/hr | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72411914) |
-| CRNA - Kelsey Seybold Clinic - Main Campus | UnitedHealth Group | Houston, TX | $190K–$288K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72406738) |
-| Technical Designer - Junior | Gensler | DC | $70K–$75K | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72406486) |
+| TGCM Technician I - Taylor, TX | Matheson ... the Gas Professionals (tm) | Taylor, TX | $24–$28/hr | - | 2026-10-31 | [View](https://veritahire.com/j/73165267) |
 | Police Officer Recruit (Trainee) | City of Scottsdale | Scottsdale, AZ | $37.30/hour | - | 2026-10-31 | [View](https://veritahire.com/j/73005792) |
 | Protective Services Specialist 1/2 Juneau (PCN 063025) | State of Alaska | Juneau, AK | $30.83–$35.45/hr | - | 2026-10-31 | [View](https://veritahire.com/j/72855284) |
 | Laboratory Technician I | Freeport-McMoRan | TX | $20.50 - $28.00/hour | - | 2026-10-31 | [View](https://veritahire.com/j/72802846) |
@@ -164,12 +180,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Research Technician I, Department of Basic Medical Sciences (College of Medicine-Phoenix) | University of Arizona | Phoenix, AZ | $16.50–$18.75/hr | - | 2026-10-31 | [View](https://veritahire.com/j/72517009) |
 | Interim Beauty Sales - Women's Fragrances - La Jolla University Town Center | Nordstrom | San Diego, CA | $24.45 - $25.45 Hourly | - | 2026-10-31 | [View](https://veritahire.com/j/72512607) |
 | Entry Level Operations Role | Centria Autism | Speedway, IN | $22.00 - $24.00/HR | - | 2026-10-31 | [View](https://veritahire.com/j/72508887) |
-| Application Analyst I | RWJBarnabas Health | Oceanport, NJ | $83K–$117K | - | 2026-10-31 | [View](https://veritahire.com/j/72472448) |
-| Enrollment Specialist I | Partnership Healthplan of California | Fairfield / US-CA-Redding, CA | $29.95–$35.19/hr | - | 2026-10-31 | [View](https://veritahire.com/j/72447287) |
-| Associate Analyst, Performance & Data Reconciliation | LPL Financial | AZ | $20.85-$34.71/hour | - | 2026-10-31 | [View](https://veritahire.com/j/72427883) |
-| Deputy Sheriff, Patrol - Entry Level and Lateral | Deschutes County Human Resources | Bend, OR | $120,000.00 per year | - | 2026-10-31 | [View](https://veritahire.com/j/72421848) |
-| Deputy Sheriff, Corrections - Entry Level and Lateral | Deschutes County Human Resources | Bend, OR | $120,000.00 per year | - | 2026-10-31 | [View](https://veritahire.com/j/72421847) |
-| GAS CONSTRUCTION TECHNICIAN I | City of Fairhope | Public Works, AL | $19–$24.69/hr | - | 2026-10-31 | [View](https://veritahire.com/j/72421840) |
 | Pharmacy Tech Entry Level Part-Time | Meijer Great Lakes LP | Mt Pleasant, MI | - | Part-time | 2026-10-31 | [View](https://veritahire.com/j/73258418) |
 | Business Systems Analyst I | Behavioral Innovations | Plano, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73231831) |
 | Warehouse Specialist I | Hargray Communications | IA | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73203751) |
@@ -182,7 +192,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | JR. ASSET MANAGEMENT ANALYST | Nyc Board of Education Retirement System | NY | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/73109647) |
 | Field Service Engineer 1 - Indiana | GE HealthCare | IN | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72984780) |
 | ED Technician I - ER | Tenet Healthcare | Commerce Township, MI | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72856225) |
-| Research Analyst 1 | Vanderbilt University Medical Center | Nashville, TN | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72839502) |
 | Donor Care Technician I | Blood Systems | CA | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72802357) |
 | Software Solutions Engineer I | Inductive Automation LLC | On-Site: Columbia, MD | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72763310) |
 | Farming Rotational Program (Edinburg, TX) | The Wonderful Company | McAllen, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72724441) |
@@ -236,35 +245,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Junior Operator | DOW INFRA OPCO LLC | Kendallville (IN, IN | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72493330) |
 | Product Development Engineer I | Fresenius Medical Care | Ogden, UT | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72492797) |
 | New Graduate Nurse - RN | Fresenius Medical Care | Anniston, AL | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72492787) |
-| Jr. Security Incident Response Analyst | Ellkay | IN | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72485453) |
-| Formula & Milk Technician I | Phoenix Children's | Gilbert, AZ | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72485319) |
-| Security Systems Technician I (Sign On Bonus Available) | Acadian Total Security | Beaumont, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72479393) |
-| Patient Access Representative - Financial Clearance/Authorization (Full-time; Days) - LCMC Health Westpark Campus | Lcmc Health | New Orleans, LA | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72476511) |
-| Medical Assistant - Ortho Trauma Institute - Yale Campus | Saint Francis Health System | OK | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72472594) |
-| Driver Trainee | Rumpke | Medora, IN | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72471390) |
-| Accountant I (Banking) | Bluecross Blueshield of South Carolina | Columbia, SC | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72469879) |
-| Accountant I | YKHC | AK | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72467424) |
-| Revenue Cycle Specialist I | Excelsia AMM | Warminster, PA | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72465121) |
-| Clinical Laboratory Scientist I | BayCare Health System | Riverview, FL | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72453633) |
-| Pharmacy Technician Trainee | Wegmans | Syracuse, NY | - | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72453475) |
-| Med Lab Scientist I / University / PRN | Methodist Le Bonheur Healthcare | Memphis, TN | - | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72450160) |
-| End Point Analyst I | Baptist Health (Arkansas) | Little Rock, AR | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72450080) |
-| Operations Engineer I | Desert Financial Credit Union | Phoenix, AZ | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72446912) |
-| CAD Technician I - Land Development | LJA 2025 | Charlotte, NC | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72446148) |
-| Graduate Engineer I - Land Development | LJA 2025 | Charlotte, NC | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72446134) |
-| Frac Tech II (Rotational) | CAT | Midland, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72436085) |
-| Entry Level Sales Representative | Sales Focus Inc | North Charleston, SC | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72426951) |
-| CPI INV Trainee Spec I | Texas Health & Human Services Commission | DENTON, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72426869) |
-| Board Certified Behavior Analyst I | Texas Health & Human Services Commission | SAN ANTONIO, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72426866) |
-| CPI Investigation Worker Trainee | Texas Health & Human Services Commission | CENTERVILLE, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72426842) |
-| Billing Specialist I | Accesshealth Community Health Center | Richmond - Richmond, TX | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72422388) |
-| Front Desk Teammate - University (Part-Time) | Fitness Connection USA | NC | - | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72420310) |
-| Patient Care Technician 1 (PCT) - Emergency Room General | Hartford HealthCare | New Britain, CT | - | Part-time | 2026-10-31 | [View](https://veritahire.com/j/72416462) |
-| Technician I | Digital Realty | Phoenix, AZ | - | Full-time | 2026-10-31 | [View](https://veritahire.com/j/72409269) |
-| TGCM Technician I - Taylor, TX | Matheson ... the Gas Professionals (tm) | Taylor, TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/73165267) |
-| Remote Travel & Event Planner / Entry-Level | Aisles & Abroad | CA | - | - | 2026-10-31 | [View](https://veritahire.com/j/73060150) |
-| Remote Scheduling Coordinator / Entry-Level | Aisles & Abroad | TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/73060148) |
-| Remote Customer Support Advisor / Entry-Level | Aisles & Abroad | CA | - | - | 2026-10-31 | [View](https://veritahire.com/j/73060144) |
 | Engineering Technician I | Terracon | Laredo, TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/73040881) |
 | Traveling Construction Materials Engineering Technician I | Terracon | Little Rock, AR | - | - | 2026-10-31 | [View](https://veritahire.com/j/73040843) |
 | Service Tech Trainee - (AUSTIN, TX AREA) | Spatco Energy Solutions | Buda, TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/73026294) |
@@ -292,17 +272,6 @@ Other daily lists: [US Internships and Co-ops](https://github.com/veritahire/us-
 | Registered Nurse II I Main Campus I Day Shift | Onvida Health | Yuma, AZ | - | - | 2026-10-31 | [View](https://veritahire.com/j/72511257) |
 | Student Utility Worker (Bob Jones University) | Avi Foodsystems | GREENVILLE, SC | - | - | 2026-10-31 | [View](https://veritahire.com/j/72495605) |
 | New Graduate Nurse- RN | Fresenius Medical Care | Cincinnati, OH | - | - | 2026-10-31 | [View](https://veritahire.com/j/72492836) |
-| Medical Lab Scientist I | Natera | Austin, TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/72490725) |
-| Home Health Aide Trainee | Aveanna Healthcare | Huntingdon, PA | - | - | 2026-10-31 | [View](https://veritahire.com/j/72485569) |
-| OB Care Technician 1 - Obstetrics * Nights - 24hrs/wk | University of Michigan Health-west | MI | - | - | 2026-10-31 | [View](https://veritahire.com/j/72471494) |
-| Maintenance Technician I | U.s. Facilities, Inc. | GA | - | - | 2026-10-31 | [View](https://veritahire.com/j/72449931) |
-| Service Technician I | Westminster | Fair Lawn, NJ | - | - | 2026-10-31 | [View](https://veritahire.com/j/72441411) |
-| Associate Software Engineer | Urban Science | Detroit, MI | - | - | 2026-10-31 | [View](https://veritahire.com/j/72439223) |
-| Junior Accountant | Parallels | AR | - | - | 2026-10-31 | [View](https://veritahire.com/j/72427105) |
-| Remote / Vacation Planning Coordinator / Entry Level | Destination | NY | - | - | 2026-10-31 | [View](https://veritahire.com/j/72421138) |
-| Remote - Group Reservations Specialist - Entry Level | Destination | CO | - | - | 2026-10-31 | [View](https://veritahire.com/j/72421135) |
-| Highway Engineer I | Rsandh | Novi, MI | - | - | 2026-10-31 | [View](https://veritahire.com/j/72408466) |
-| Designer - Lifestyle - Junior | Gensler | Houston, TX | - | - | 2026-10-31 | [View](https://veritahire.com/j/72406490) |
 <!-- jobs:end -->
 
 ## Data and reuse
