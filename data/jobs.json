@@ -1,11 +1,847 @@
 {
  "list": "us-entry-level-jobs",
  "title": "US entry-level and new-grad jobs",
- "generated_at": "2026-11-27T05:50Z",
- "count": 300,
+ "generated_at": "2026-11-28T05:50Z",
+ "count": 233,
  "source": "VeritaHire - live US jobs read straight from employers' own career sites, re-checked daily",
  "license": "CC BY 4.0 - credit \"VeritaHire (veritahire.com)\"",
  "jobs": [
+  {
+   "title": "Trainee Sales Consultant (Oklahoma City, OK)",
+   "employer": "Southern Glazer's Wine & Spirits",
+   "location": "OK",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16.00 - $18.00 / hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 05:35",
+   "url": "https://veritahire.com/j/106640141"
+  },
+  {
+   "title": "Entry-Level Automotive Parts Associate",
+   "employer": "Carvana",
+   "location": "Syracuse, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$17.00/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 05:27",
+   "url": "https://veritahire.com/j/106637923"
+  },
+  {
+   "title": "Technician Apprentice Program-Body Apprentice",
+   "employer": "Caliber Collision",
+   "location": "Sacramento, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$18-22 per hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 05:17",
+   "url": "https://veritahire.com/j/106635843"
+  },
+  {
+   "title": "Technician Apprentice Program - Body Apprentice",
+   "employer": "Caliber Collision",
+   "location": "Appleton, WI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16 - $18 per hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 05:17",
+   "url": "https://veritahire.com/j/106635840"
+  },
+  {
+   "title": "Site Specialist I",
+   "employer": "Thermo Fisher Scientific",
+   "location": "Indianapolis, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$13.31–$19.20/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 05:00",
+   "url": "https://veritahire.com/j/106611073"
+  },
+  {
+   "title": "Entry Level -Associate Member Relationship Specialist (Part-time Teller 1) San Bernardino",
+   "employer": "Arrowhead Credit Union",
+   "location": "San Bernardino, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$22.32 /hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:41",
+   "url": "https://veritahire.com/j/106596659"
+  },
+  {
+   "title": "Entry Level -Associate Member Relationship Specialist (Part-time Teller 1) Redlands",
+   "employer": "Arrowhead Credit Union",
+   "location": "Redlands, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$22.32 /hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:41",
+   "url": "https://veritahire.com/j/106596475"
+  },
+  {
+   "title": "Patient Care Technician I - Full Time, Days 7a-7p, Nursing Resource, Atlantic Health Overlook Medical Center",
+   "employer": "Atlantic Health System",
+   "location": "US",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$18.50/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:24",
+   "url": "https://veritahire.com/j/106556066"
+  },
+  {
+   "title": "Medical Assistant Apprentice",
+   "employer": "Sea Mar Community Health Centers",
+   "location": "WA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21.63 Hourly",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:08",
+   "url": "https://veritahire.com/j/106544930"
+  },
+  {
+   "title": "Registered Nurse - Acute Care Campus",
+   "employer": "Allhealth Network",
+   "location": "Littleton, CO",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$40 to $47 an hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:16",
+   "url": "https://veritahire.com/j/106515972"
+  },
+  {
+   "title": "Territory Sales | Entry Level",
+   "employer": "Auto-chlor System",
+   "location": "Cheektowaga, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$75K–$85K",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:07",
+   "url": "https://veritahire.com/j/106508405"
+  },
+  {
+   "title": "Radar Phase Array Engineer I",
+   "employer": "Rocket Lab Corporation",
+   "location": "Long Beach, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$88K–$121K",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:55",
+   "url": "https://veritahire.com/j/106487964"
+  },
+  {
+   "title": "Physical Therapist- New Grad PT Home Health",
+   "employer": "BAYADA Home Health Care",
+   "location": "Burlington, VT",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$57–$59/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:43",
+   "url": "https://veritahire.com/j/106483273"
+  },
+  {
+   "title": "Physical Therapist- New Grad PT - Home Health",
+   "employer": "BAYADA Home Health Care",
+   "location": "Rutland, VT",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$57–$59/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:43",
+   "url": "https://veritahire.com/j/106483272"
+  },
+  {
+   "title": "Presort Associate 1",
+   "employer": "Pitney Bowes",
+   "location": "PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16.88 per hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:11",
+   "url": "https://veritahire.com/j/106456373"
+  },
+  {
+   "title": "Pharmacy Technician Specialist I - Medication History",
+   "employer": "Advocate Health",
+   "location": "WI",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$24.10–$36.15/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:53",
+   "url": "https://veritahire.com/j/106444233"
+  },
+  {
+   "title": "Pharmacy Technician Specialist I - Medication History - Condell",
+   "employer": "Advocate Health",
+   "location": "IL",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$24.10–$36.15/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:53",
+   "url": "https://veritahire.com/j/106444231"
+  },
+  {
+   "title": "Pharmacy Technician Trainee",
+   "employer": "Mass General Brigham",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21.75 - $26.58/Hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:51",
+   "url": "https://veritahire.com/j/106443599"
+  },
+  {
+   "title": "Pharmacy Technician I",
+   "employer": "Mass General Brigham",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21.75 - $26.58/Hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:51",
+   "url": "https://veritahire.com/j/106443594"
+  },
+  {
+   "title": "Phlebotomy- Part-Time Evenings, Liberty Campus",
+   "employer": "Cincinnati Children's",
+   "location": "Liberty Township, OH",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$20.50–$24.62/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:18",
+   "url": "https://veritahire.com/j/106401309"
+  },
+  {
+   "title": "Emergency Department Technician I",
+   "employer": "OSF HealthCare",
+   "location": "PONTIAC, IL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$19.46 - $22.89/hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:14",
+   "url": "https://veritahire.com/j/106396087"
+  },
+  {
+   "title": "Environmental Monitoring Analyst I (3rd Shift)",
+   "employer": "Pfizer",
+   "location": "MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$19.18 to $31.97 per hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 00:44",
+   "url": "https://veritahire.com/j/106347610"
+  },
+  {
+   "title": "Production Technician I",
+   "employer": "Cargill",
+   "location": "TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20–$25/hr",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 00:07",
+   "url": "https://veritahire.com/j/106302324"
+  },
+  {
+   "title": "Casual Hire - Regional Research and Innovation Specialist I",
+   "employer": "University of Hawai'i",
+   "location": "Hilo, HI",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$31.25 - $32.50 per hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:56",
+   "url": "https://veritahire.com/j/106540893"
+  },
+  {
+   "title": "Medical Assistant Apprentice Program",
+   "employer": "Mass General Brigham",
+   "location": "MA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$20.00 - $23.20/Hour",
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:51",
+   "url": "https://veritahire.com/j/106443687"
+  },
+  {
+   "title": "Junior Service Advisor",
+   "employer": "Murgado Automotive Group",
+   "location": "Barrington, IL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:23",
+   "url": "https://veritahire.com/j/106555304"
+  },
+  {
+   "title": "BSA/AML Analyst I",
+   "employer": "Third Coast Bank",
+   "location": "Houston, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 04:13",
+   "url": "https://veritahire.com/j/106550973"
+  },
+  {
+   "title": "Fraud Specialist I",
+   "employer": "Truist Bank",
+   "location": "Wilson, NC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:48",
+   "url": "https://veritahire.com/j/106539748"
+  },
+  {
+   "title": "Truck Loader And Unloader - ENTRY LEVEL",
+   "employer": "Aerotek",
+   "location": "Sutherland, VA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:47",
+   "url": "https://veritahire.com/j/106539257"
+  },
+  {
+   "title": "Construction Worker / Technician (Entry Level)",
+   "employer": "Aerotek",
+   "location": "Harrisburg, PA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:47",
+   "url": "https://veritahire.com/j/106539243"
+  },
+  {
+   "title": "Machine Operator (Entry Level)",
+   "employer": "Aerotek",
+   "location": "Glen Rock, PA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:47",
+   "url": "https://veritahire.com/j/106539227"
+  },
+  {
+   "title": "Financial Analyst I",
+   "employer": "Life Time (careers.lifetime.life)",
+   "location": "Chanhassen, MN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 03:36",
+   "url": "https://veritahire.com/j/106528587"
+  },
+  {
+   "title": "Customer Service Associate I",
+   "employer": "Family Dollar",
+   "location": "Knox, IN",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:57",
+   "url": "https://veritahire.com/j/106492886"
+  },
+  {
+   "title": "Residency Program - New Nurse Graduates",
+   "employer": "BAYADA Home Health Care",
+   "location": "Pittsburgh, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:43",
+   "url": "https://veritahire.com/j/106483353"
+  },
+  {
+   "title": "Radiology Technologist - Roper St. Francis Express Care - University Boulevard",
+   "employer": "Roper St. Francis Healthcare",
+   "location": "North Charleston, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:21",
+   "url": "https://veritahire.com/j/106468255"
+  },
+  {
+   "title": "Business Intelligence Analyst I, Service",
+   "employer": "Edward Jones (corporate careers site)",
+   "location": "Tempe, AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:21",
+   "url": "https://veritahire.com/j/106468124"
+  },
+  {
+   "title": "Associate Financial Advisor",
+   "employer": "Edward Jones (corporate careers site)",
+   "location": "Portsmouth, RI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:21",
+   "url": "https://veritahire.com/j/106468020"
+  },
+  {
+   "title": "Radiologic Technologist - Hospital - Radiology - University Hospital",
+   "employer": "USA Health",
+   "location": "Mobile, AL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:15",
+   "url": "https://veritahire.com/j/106459966"
+  },
+  {
+   "title": "Junior Range Safety Engineer",
+   "employer": "Reliance Test & Technology (artss)",
+   "location": "Patuxent River, MD",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:43",
+   "url": "https://veritahire.com/j/106432331"
+  },
+  {
+   "title": "Associate I, Crew Health",
+   "employer": "Carnival Corporation",
+   "location": "Miami, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:40",
+   "url": "https://veritahire.com/j/106427344"
+  },
+  {
+   "title": "Electrical Designer (Junior/Intermediate)",
+   "employer": "Motor Coach Industries",
+   "location": "Anniston, AL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:05",
+   "url": "https://veritahire.com/j/106383366"
+  },
+  {
+   "title": "Lending Call Center Specialist I",
+   "employer": "San Diego County Credit Union",
+   "location": "San Diego, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:05",
+   "url": "https://veritahire.com/j/106383082"
+  },
+  {
+   "title": "GTS - Junior FSE - Control Systems",
+   "employer": "Qinterra Technologies",
+   "location": "Austin, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 00:25",
+   "url": "https://veritahire.com/j/106316214"
+  },
+  {
+   "title": "Assembly Technician I",
+   "employer": "Premier Marine",
+   "location": "AK",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 02:23",
+   "url": "https://veritahire.com/j/106472723"
+  },
+  {
+   "title": "Universal Associate I (Teller/New Accounts)",
+   "employer": "First Citizens Community Bank",
+   "location": "PA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 01:11",
+   "url": "https://veritahire.com/j/106392956"
+  },
+  {
+   "title": "Bilingual Quality Assurance Tech - Tucker, GA (Entry Level)",
+   "employer": "Prime Meats LLC",
+   "location": "TUCKER, GA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 00:20",
+   "url": "https://veritahire.com/j/106313096"
+  },
+  {
+   "title": "Bilingual Quality Assurance Tech - Richmond, VA (Entry Level)",
+   "employer": "Prime Meats LLC",
+   "location": "Richmond, VA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-28",
+   "last_confirmed": "2026-11-28 00:20",
+   "url": "https://veritahire.com/j/106313095"
+  },
+  {
+   "title": "General Cardiologist - New Graduates Welcome",
+   "employer": "United Future",
+   "location": "Brooklyn, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$350K - $390K per year",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 23:48",
+   "url": "https://veritahire.com/j/106286448"
+  },
+  {
+   "title": "Lab Technician I",
+   "employer": "Deibel Laboratories",
+   "location": "Allentown, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$18–$20/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 23:32",
+   "url": "https://veritahire.com/j/106267781"
+  },
+  {
+   "title": "New Grad RN Resident - Pediatric ICU",
+   "employer": "Cleveland Clinic",
+   "location": "Cleveland, OH",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$35.50/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 02:16",
+   "url": "https://veritahire.com/j/106245140"
+  },
+  {
+   "title": "New Grad RN Resident - Neurosciences Unit",
+   "employer": "Cleveland Clinic",
+   "location": "Cleveland, OH",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$35.50/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 02:16",
+   "url": "https://veritahire.com/j/106245134"
+  },
+  {
+   "title": "Mammography Tech Trainee",
+   "employer": "RadNet",
+   "location": "Walnut Creek, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$40–$48/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 23:00",
+   "url": "https://veritahire.com/j/106221700"
+  },
+  {
+   "title": "Graduate Nurse, GN",
+   "employer": "PowerBack Rehabilitation (AlignMed Partners)",
+   "location": "Tuscumbia, AL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$35.50 /Hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:23",
+   "url": "https://veritahire.com/j/106218315"
+  },
+  {
+   "title": "Graduate Practical Nurse, GPN",
+   "employer": "PowerBack Rehabilitation (AlignMed Partners)",
+   "location": "Tuscumbia, AL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$27.00 /Hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:23",
+   "url": "https://veritahire.com/j/106218312"
+  },
+  {
+   "title": "Junior Groomer",
+   "employer": "Petco",
+   "location": "Staunton, VA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$10.00 - $19.50 Hourly",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:19",
+   "url": "https://veritahire.com/j/106215982"
+  },
+  {
+   "title": "Registered Nurse, 7 ICU, University, Per Diem",
+   "employer": "Umass Memorial Health",
+   "location": "Worcester, MA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$52.50–$57.50/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 21:57",
+   "url": "https://veritahire.com/j/106182396"
+  },
+  {
+   "title": "Accounting Technician 1 (02-8019)",
+   "employer": "State of Alaska",
+   "location": "Juneau, AK",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$25.36/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 21:06",
+   "url": "https://veritahire.com/j/106144752"
+  },
+  {
+   "title": "Warehouse Technician I",
+   "employer": "Astound Business Solutions",
+   "location": "TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16.00 - $18.00 per hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:59",
+   "url": "https://veritahire.com/j/106137023"
+  },
+  {
+   "title": "Registered Behavior Technician (RBT) Entry Level",
+   "employer": "Bluesprig",
+   "location": "FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20.00-$22.00/hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:28",
+   "url": "https://veritahire.com/j/106117300"
+  },
+  {
+   "title": "Medical Assistant Apprentice - Cardiology - Part time",
+   "employer": "Providence Health & Services",
+   "location": "Eureka, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$25.00 - $31.19 an hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:26",
+   "url": "https://veritahire.com/j/106113986"
+  },
+  {
+   "title": "Pharmacy Technician / Pharm Tech Apprenticeship",
+   "employer": "Walgreens",
+   "location": "Wilsonville, OR",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$19.50–$23/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:33",
+   "url": "https://veritahire.com/j/106071119"
+  },
+  {
+   "title": "Network Security Technician I (DOT Cybersecurity Systems Administrator I)",
+   "employer": "Maryland Department of Transportation",
+   "location": "MD",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$87K–$138K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:14",
+   "url": "https://veritahire.com/j/106061554"
+  },
+  {
+   "title": "Process Engineer 1 - Laser Systems",
+   "employer": "Illumina",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$68K–$103K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:14",
+   "url": "https://veritahire.com/j/106060346"
+  },
+  {
+   "title": "Flight Instrumentation and Systems Integration Engineer, Jr. - NASA",
+   "employer": "American Systems",
+   "location": "Edwards, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$70,000.00/Yr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:06",
+   "url": "https://veritahire.com/j/106055318"
+  },
+  {
+   "title": "Pre - TDP Trainee",
+   "employer": "Boyd Group Services (careers.boydgroup.com: Gerber Collision, Joe Hudson s)",
+   "location": "Lynnwood, WA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21–$25/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:56",
+   "url": "https://veritahire.com/j/106044369"
+  },
+  {
+   "title": "Advanced Manufacturing Equipment Engineer (2027 New College Graduate)",
+   "employer": "GlobalFoundries",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$58K–$101K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:52",
+   "url": "https://veritahire.com/j/106041179"
+  },
+  {
+   "title": "Nursing Assistant - BGH Emergency Department / 0.9 FTE / Day Rotational",
+   "employer": "United Health Services",
+   "location": "Binghamton, NY",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$19.37 - $28.09 per hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:14",
+   "url": "https://veritahire.com/j/106022876"
+  },
+  {
+   "title": "Land Mobile Radio System Analyst I",
+   "employer": "Pima County",
+   "location": "Tucson, AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$62,337 - $74,796 Annually",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 17:19",
+   "url": "https://veritahire.com/j/105974840"
+  },
+  {
+   "title": "Administrative Specialist I - Economic Development",
+   "employer": "Pima County",
+   "location": "Tucson, AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21.76 - $25.56 Per Hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 17:19",
+   "url": "https://veritahire.com/j/105974836"
+  },
+  {
+   "title": "Front End Entry Level",
+   "employer": "Albertsons",
+   "location": "Leander, TX",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$17/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 16:37",
+   "url": "https://veritahire.com/j/105899336"
+  },
+  {
+   "title": "Associate Financial Analyst, FP&A",
+   "employer": "Moraph",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$105K–$125K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:36",
+   "url": "https://veritahire.com/j/105896028"
+  },
+  {
+   "title": "Logistics Associate - Main Campus (Day shift)",
+   "employer": "Memorial Sloan Kettering Cancer Center",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$23.49–$32.46/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 02:15",
+   "url": "https://veritahire.com/j/105707269"
+  },
+  {
+   "title": "Pest Control Service Technician Trainee I",
+   "employer": "Rollins, Inc.",
+   "location": "New Castle, DE",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$18.00 to $22.00 hourly",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 00:29",
+   "url": "https://veritahire.com/j/105678060"
+  },
+  {
+   "title": "Phlebotomist, University Inpatient Lab, 20hr, Day",
+   "employer": "Umass Memorial Health",
+   "location": "Worcester, MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$20.32–$38.17/hr",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 21:57",
+   "url": "https://veritahire.com/j/105460352"
+  },
+  {
+   "title": "Range: Graduate Engineer I or Graduate Engineer II / Pipelines Engineering",
+   "employer": "San Antonio Water System",
+   "location": "San Antonio, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$55K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:42",
+   "url": "https://veritahire.com/j/105422393"
+  },
+  {
+   "title": "Entry-Level Behavior Specialist - Autism",
+   "employer": "Bk Behavior Ventures",
+   "location": "Lawson, MO",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$20-$26 per hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:17",
+   "url": "https://veritahire.com/j/105369349"
+  },
   {
    "title": "Margin Specialist I",
    "employer": "Royal Bank of Canada (RBC)",
@@ -14,7 +850,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$50K–$80K",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 04:07",
+   "last_confirmed": "2026-11-27 17:45",
    "url": "https://veritahire.com/j/105302937"
   },
   {
@@ -25,7 +861,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$160K–$220K",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:44",
+   "last_confirmed": "2026-11-28 04:58",
    "url": "https://veritahire.com/j/105248317"
   },
   {
@@ -36,7 +872,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$41,600 to $52,000 per annum",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:42",
+   "last_confirmed": "2026-11-27 16:40",
    "url": "https://veritahire.com/j/105247068"
   },
   {
@@ -47,7 +883,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$23.08 - $38.46 per hour",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:38",
+   "last_confirmed": "2026-11-28 05:16",
    "url": "https://veritahire.com/j/105240956"
   },
   {
@@ -58,7 +894,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$29.67 - $35.46 hourly",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:32",
+   "last_confirmed": "2026-11-28 05:06",
    "url": "https://veritahire.com/j/105233215"
   },
   {
@@ -69,30 +905,74 @@
    "employment_type": "full_time",
    "pay_as_posted": "$45K–$95K",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:23",
+   "last_confirmed": "2026-11-28 04:43",
    "url": "https://veritahire.com/j/105212631"
   },
   {
-   "title": "Entry Level Warehouse Associate",
-   "employer": "Aerotek",
-   "location": "North Bend, WA",
+   "title": "Pewaukee - 4179 - Registered Behavior Technician I",
+   "employer": "Caravel Autism Health",
+   "location": "Pewaukee, WI",
    "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$21-22/hr",
+   "employment_type": null,
+   "pay_as_posted": "$18.24–$31.05/hr",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 01:24",
-   "url": "https://veritahire.com/j/105152468"
+   "last_confirmed": "2026-11-27 22:07",
+   "url": "https://veritahire.com/j/106207680"
   },
   {
-   "title": "Front End Entry Level",
-   "employer": "Albertsons",
-   "location": "Philadelphia, PA",
+   "title": "Accounting Technician 1 Juneau (PCN 060098)",
+   "employer": "State of Alaska",
+   "location": "Juneau, AK",
    "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$16.76–$25.15/hr",
+   "employment_type": null,
+   "pay_as_posted": "$25.36/hr",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 00:35",
-   "url": "https://veritahire.com/j/105096050"
+   "last_confirmed": "2026-11-27 21:06",
+   "url": "https://veritahire.com/j/106144761"
+  },
+  {
+   "title": "Junior K9 Handler",
+   "employer": "Constellis",
+   "location": "San Diego, CA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$25-27 per hour",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:00",
+   "url": "https://veritahire.com/j/106047429"
+  },
+  {
+   "title": "Medical Billing Specialist I",
+   "employer": "Montgomery County, Ohio",
+   "location": "Dayton, OH",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$46K–$65K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:37",
+   "url": "https://veritahire.com/j/105897955"
+  },
+  {
+   "title": "Human Resources Specialist I",
+   "employer": "Montgomery County, Ohio",
+   "location": "Dayton, OH",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$46K–$56K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:37",
+   "url": "https://veritahire.com/j/105897954"
+  },
+  {
+   "title": "Water Resources Plant Operator Trainee - Potable Water Treatment",
+   "employer": "City of Mesa",
+   "location": "AZ",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$42K–$57K",
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:37",
+   "url": "https://veritahire.com/j/105420030"
   },
   {
    "title": "System Validation Engineer 1",
@@ -102,7 +982,7 @@
    "employment_type": null,
    "pay_as_posted": "$65K–$79K",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:42",
+   "last_confirmed": "2026-11-27 16:40",
    "url": "https://veritahire.com/j/105247086"
   },
   {
@@ -113,7 +993,7 @@
    "employment_type": null,
    "pay_as_posted": "$39.46–$58.21/hr",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:26",
+   "last_confirmed": "2026-11-28 04:40",
    "url": "https://veritahire.com/j/105219733"
   },
   {
@@ -124,19 +1004,272 @@
    "employment_type": null,
    "pay_as_posted": "$64K–$83K",
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 01:40",
+   "last_confirmed": "2026-11-28 04:09",
    "url": "https://veritahire.com/j/105167594"
   },
   {
-   "title": "Pharmacy Technician / Pharm Tech Apprenticeship",
-   "employer": "Walgreens",
-   "location": "Easton, PA",
+   "title": "Retail Pharmacy Tech Trainee",
+   "employer": "Berkshire Health Systems",
+   "location": "Pittsfield, MA",
    "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$17 - $23.25 / Hour",
+   "employment_type": "full_time",
+   "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 00:42",
-   "url": "https://veritahire.com/j/105102367"
+   "last_confirmed": "2026-11-27 23:41",
+   "url": "https://veritahire.com/j/106277437"
+  },
+  {
+   "title": "New Grad RN Resident - Medical Renal and Urology",
+   "employer": "Cleveland Clinic",
+   "location": "Stuart, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 02:16",
+   "url": "https://veritahire.com/j/106244974"
+  },
+  {
+   "title": "Pest Technician I",
+   "employer": "Rentokil",
+   "location": "Garden City, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:27",
+   "url": "https://veritahire.com/j/106221093"
+  },
+  {
+   "title": "Lawn Technician I",
+   "employer": "Rentokil",
+   "location": "Leesburg, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:27",
+   "url": "https://veritahire.com/j/106221085"
+  },
+  {
+   "title": "Residential Sales Trainee",
+   "employer": "Rentokil",
+   "location": "Houston, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:27",
+   "url": "https://veritahire.com/j/106221069"
+  },
+  {
+   "title": "Business Intelligence Analyst I",
+   "employer": "Commonwealth Credit Union",
+   "location": "Frankfort, KY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 21:56",
+   "url": "https://veritahire.com/j/106182280"
+  },
+  {
+   "title": "Registered Nurse RN NEW GRADS WELCOME",
+   "employer": "Ernest Health",
+   "location": "Phoenix, AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 00:38",
+   "url": "https://veritahire.com/j/106179688"
+  },
+  {
+   "title": "Entry Level Manufacturing Associate - Day Shift - Mon-Fri",
+   "employer": "National Vision1",
+   "location": "Lawrenceville, GA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 21:25",
+   "url": "https://veritahire.com/j/106165491"
+  },
+  {
+   "title": "Graduate Manufacturing Engineer",
+   "employer": "Barnes Group",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:28",
+   "url": "https://veritahire.com/j/106117324"
+  },
+  {
+   "title": "Wealth Trainee",
+   "employer": "Amherst Pierpont Securities LLC",
+   "location": "FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 20:10",
+   "url": "https://veritahire.com/j/106100600"
+  },
+  {
+   "title": "Pharmacy Technician - Entry Level",
+   "employer": "Meijer Great Lakes LP",
+   "location": "Utica, MI",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:45",
+   "url": "https://veritahire.com/j/106085512"
+  },
+  {
+   "title": "Tractor Trailer Driver/RTD - Apprentice-3",
+   "employer": "Fedex",
+   "location": "Moon Township, PA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:35",
+   "url": "https://veritahire.com/j/106077531"
+  },
+  {
+   "title": "Security Engineer I",
+   "employer": "JPMorgan Chase",
+   "location": "Plano, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:34",
+   "url": "https://veritahire.com/j/106073609"
+  },
+  {
+   "title": "Registered Nurse RN New Graduate General PCU",
+   "employer": "Banner Health",
+   "location": "AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:44",
+   "url": "https://veritahire.com/j/106037883"
+  },
+  {
+   "title": "Finance Analyst I",
+   "employer": "UPS",
+   "location": "LOUISVILLE, KY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:16",
+   "url": "https://veritahire.com/j/106026827"
+  },
+  {
+   "title": "Registered Nurse (RN), New Graduate, Tele Stepdown Unit",
+   "employer": "University of Maryland Medical System",
+   "location": "Glen Burnie, MD",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 17:45",
+   "url": "https://veritahire.com/j/105998929"
+  },
+  {
+   "title": "Plant Operator Trainee",
+   "employer": "Dairyland Power Cooperative",
+   "location": "Alma, WI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 16:55",
+   "url": "https://veritahire.com/j/105916334"
+  },
+  {
+   "title": "Entry-level Auto Body Repair Technician",
+   "employer": "Carvana",
+   "location": "Plainfield, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:27",
+   "url": "https://veritahire.com/j/105895185"
+  },
+  {
+   "title": "MRI Apprentice",
+   "employer": "Wvu Medicine",
+   "location": "WV",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:27",
+   "url": "https://veritahire.com/j/105893189"
+  },
+  {
+   "title": "Employment Specialist I",
+   "employer": "SPIN",
+   "location": "Bethlehem, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 04:42",
+   "url": "https://veritahire.com/j/105871081"
+  },
+  {
+   "title": "Registered Respiratory Therapist - Lourdes Main Campus -PRN",
+   "employer": "Franciscan Missionaries of Our Lady Health System",
+   "location": "Lafayette, LA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 04:08",
+   "url": "https://veritahire.com/j/105833814"
+  },
+  {
+   "title": "Patient Access Associate ED / PAS Rockville Campus",
+   "employer": "Hartford HealthCare",
+   "location": "Vernon, CT",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 02:44",
+   "url": "https://veritahire.com/j/105753524"
+  },
+  {
+   "title": "Apprentice",
+   "employer": "RTX",
+   "location": "HI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 23:13",
+   "url": "https://veritahire.com/j/105521423"
+  },
+  {
+   "title": "Entry Level Behavior Technician (Paid RBT Training) - Sidney, NE",
+   "employer": "Bk Behavior Ventures",
+   "location": "Sidney, NE",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:17",
+   "url": "https://veritahire.com/j/105369339"
   },
   {
    "title": "Patient Services Specialist I - Part-Time Hill Country Float",
@@ -146,7 +1279,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:57",
+   "last_confirmed": "2026-11-27 16:59",
    "url": "https://veritahire.com/j/105264465"
   },
   {
@@ -157,19 +1290,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 02:51",
+   "last_confirmed": "2026-11-28 05:48",
    "url": "https://veritahire.com/j/105257422"
-  },
-  {
-   "title": "Police Officer, University of Texas Police Department - Bastrop, Texas",
-   "employer": "MD Anderson Cancer Center",
-   "location": "Bastrop, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 01:48",
-   "url": "https://veritahire.com/j/105174194"
   },
   {
    "title": "Sushi Trainee",
@@ -179,30 +1301,129 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 01:24",
+   "last_confirmed": "2026-11-28 03:35",
    "url": "https://veritahire.com/j/105150769"
   },
   {
-   "title": "Customer Service Associate I",
-   "employer": "Family Dollar",
-   "location": "Sterling City, TX",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 00:33",
-   "url": "https://veritahire.com/j/105087001"
-  },
-  {
-   "title": "Stylist in Training / Apprentice Stylist",
-   "employer": "Smartstyle Salons",
-   "location": "CARLISLE, PA",
+   "title": "GTS - Junior FSE - Control Systems",
+   "employer": "Baker Hughes",
+   "location": "OTHER LOUISIANA, LA",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 05:33",
-   "url": "https://veritahire.com/j/105352193"
+   "last_confirmed": "2026-11-27 22:51",
+   "url": "https://veritahire.com/j/106233006"
+  },
+  {
+   "title": "Pharmacy Technician I Home Infusion",
+   "employer": "Yale New Haven Health",
+   "location": "NEW HAVEN, CT",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:06",
+   "url": "https://veritahire.com/j/106152075"
+  },
+  {
+   "title": "Animal Care Assistant- Entry Level (Weekends) ON CALL",
+   "employer": "Shotvet",
+   "location": "Lincoln, RI",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:36",
+   "url": "https://veritahire.com/j/106079175"
+  },
+  {
+   "title": "Animal Care Assistant- Entry Level (Weekends) - ON CALL",
+   "employer": "Shotvet",
+   "location": "Montgomery, NJ",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 19:36",
+   "url": "https://veritahire.com/j/106079174"
+  },
+  {
+   "title": "Stylist in Training / Apprentice Stylist",
+   "employer": "Smartstyle Salons",
+   "location": "Cambridge, MN",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 18:53",
+   "url": "https://veritahire.com/j/106042916"
+  },
+  {
+   "title": "Youth Care Specialist I",
+   "employer": "State of Delaware",
+   "location": "DE",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 17:41",
+   "url": "https://veritahire.com/j/105992344"
+  },
+  {
+   "title": "Trainee",
+   "employer": "Coca-cola Bottling Company United, Inc.",
+   "location": "Tuscaloosa Merchandiser, AL",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 05:36",
+   "url": "https://veritahire.com/j/105897443"
+  },
+  {
+   "title": "Logistician - Junior",
+   "employer": "Reliability & Performance Technologies ( R&p )",
+   "location": "DC",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 04:28",
+   "url": "https://veritahire.com/j/105856120"
+  },
+  {
+   "title": "Entry Level Sales Executive - Chambersburg/Harrisburg/Shippensburg, PA",
+   "employer": "Medical Diagnostic Laboratories, L.l.c. (mdl)",
+   "location": "Shippensburg, PA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 23:11",
+   "url": "https://veritahire.com/j/105511758"
+  },
+  {
+   "title": "Entry Level Tax Preparer",
+   "employer": "Jackson Hewitt",
+   "location": "Claremore, OK",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-27 22:24",
+   "url": "https://veritahire.com/j/105475466"
+  },
+  {
+   "title": "Junior Public Health Nurse, Bureau of School Health",
+   "employer": "City of New York (cityjobs.nyc.gov)",
+   "location": "NY",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-11-27",
+   "last_confirmed": "2026-11-28 03:46",
+   "url": "https://veritahire.com/j/105164928"
   },
   {
    "title": "Lab Technician I",
@@ -212,7 +1433,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-27",
-   "last_confirmed": "2026-11-27 00:02",
+   "last_confirmed": "2026-11-28 02:22",
    "url": "https://veritahire.com/j/105054571"
   },
   {
@@ -223,7 +1444,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$37.83 - $48.91 / hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:01",
+   "last_confirmed": "2026-11-28 01:21",
    "url": "https://veritahire.com/j/104989090"
   },
   {
@@ -234,19 +1455,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$26.75/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:48",
+   "last_confirmed": "2026-11-28 00:07",
    "url": "https://veritahire.com/j/104920647"
   },
   {
    "title": "Entry-Level Behavior Specialist - Autism",
    "employer": "Georgia Behavior Associates",
-   "location": "Excelsior Springs, MO",
+   "location": "Lawson, MO",
    "remote": false,
    "employment_type": "part_time",
    "pay_as_posted": "$20-$26 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:48",
-   "url": "https://veritahire.com/j/104846359"
+   "last_confirmed": "2026-11-27 23:11",
+   "url": "https://veritahire.com/j/104846364"
   },
   {
    "title": "Wind Turbine Technician I",
@@ -256,7 +1477,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$50K–$58K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:06",
+   "last_confirmed": "2026-11-27 20:24",
    "url": "https://veritahire.com/j/104772040"
   },
   {
@@ -267,7 +1488,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$52K–$69K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:52",
+   "last_confirmed": "2026-11-27 20:08",
    "url": "https://veritahire.com/j/104770030"
   },
   {
@@ -278,7 +1499,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$64,500.00 - $129,500.00 annually",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:34",
+   "last_confirmed": "2026-11-27 19:58",
    "url": "https://veritahire.com/j/104761605"
   },
   {
@@ -289,19 +1510,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60K–$80K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:08",
+   "last_confirmed": "2026-11-27 19:23",
    "url": "https://veritahire.com/j/104748586"
-  },
-  {
-   "title": "Entry-Level Behavior Specialist - Autism",
-   "employer": "Bk Behavior Ventures",
-   "location": "Excelsior Springs, MO",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$20-$26 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:59",
-   "url": "https://veritahire.com/j/104740886"
   },
   {
    "title": "Business Insurance Service Trainee",
@@ -311,7 +1521,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$36K–$66K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:33",
+   "last_confirmed": "2026-11-27 19:25",
    "url": "https://veritahire.com/j/104727405"
   },
   {
@@ -322,7 +1532,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$35.60-$35.60 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:29",
+   "last_confirmed": "2026-11-27 18:50",
    "url": "https://veritahire.com/j/104711284"
   },
   {
@@ -333,30 +1543,8 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17.40 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 02:51",
+   "last_confirmed": "2026-11-28 05:49",
    "url": "https://veritahire.com/j/104567784"
-  },
-  {
-   "title": "Night Shift Aerospace Machine Operator (Entry Level) START IMMEDIATELY",
-   "employer": "Aerotek",
-   "location": "Marysville, WA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$22.00 - $22.00/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:24",
-   "url": "https://veritahire.com/j/104488343"
-  },
-  {
-   "title": "ENTRY LEVEL WELDERS START ASAP",
-   "employer": "Aerotek",
-   "location": "Redmond, WA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$27.49/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:24",
-   "url": "https://veritahire.com/j/104488300"
   },
   {
    "title": "Employment Compliance Specialist I",
@@ -366,7 +1554,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$23–$27/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:40",
+   "last_confirmed": "2026-11-28 02:58",
    "url": "https://veritahire.com/j/104437120"
   },
   {
@@ -377,19 +1565,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$82K–$124K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:37",
+   "last_confirmed": "2026-11-28 02:55",
    "url": "https://veritahire.com/j/104436540"
-  },
-  {
-   "title": "New Graduate LPN - Nurse Residency",
-   "employer": "BAYADA Home Health Care",
-   "location": "Milford, DE",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$27/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:21",
-   "url": "https://veritahire.com/j/104425520"
   },
   {
    "title": "Trauma ICU New Grad RN",
@@ -399,7 +1576,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$36 - $52.20 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:51",
+   "last_confirmed": "2026-11-28 02:15",
    "url": "https://veritahire.com/j/104403989"
   },
   {
@@ -410,7 +1587,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$18.85–$28.30/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:33",
+   "last_confirmed": "2026-11-28 01:54",
    "url": "https://veritahire.com/j/104381947"
   },
   {
@@ -421,19 +1598,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$23.56–$30.29/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:12",
+   "last_confirmed": "2026-11-28 01:35",
    "url": "https://veritahire.com/j/104366807"
-  },
-  {
-   "title": "Night Shift Per Diem Registered Nurse (RN) - Off Campus Emergency Department - Lacey",
-   "employer": "MultiCare",
-   "location": "WA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$48.09–$93.38/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:02",
-   "url": "https://veritahire.com/j/104334326"
   },
   {
    "title": "Registered Nurse (RN) - Off Campus Emergency Department - Federal Way",
@@ -443,19 +1609,19 @@
    "employment_type": "part_time",
    "pay_as_posted": "$48.15–$90.83/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:02",
+   "last_confirmed": "2026-11-28 01:24",
    "url": "https://veritahire.com/j/104334327"
   },
   {
-   "title": "Electrical Designer (Junior/Intermediate)",
-   "employer": "Motor Coach Industries",
-   "location": "Anniston, AL",
+   "title": "Night Shift Per Diem Registered Nurse (RN) - Off Campus Emergency Department - Lacey",
+   "employer": "MultiCare",
+   "location": "WA",
    "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$65K–$77K",
+   "employment_type": "part_time",
+   "pay_as_posted": "$48.09–$93.38/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:48",
-   "url": "https://veritahire.com/j/104328289"
+   "last_confirmed": "2026-11-28 01:24",
+   "url": "https://veritahire.com/j/104334326"
   },
   {
    "title": "Admissions Specialist I",
@@ -465,7 +1631,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18.50–$24.25/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:39",
+   "last_confirmed": "2026-11-28 00:59",
    "url": "https://veritahire.com/j/104324783"
   },
   {
@@ -476,7 +1642,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17.00- $18.00 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:39",
+   "last_confirmed": "2026-11-28 00:58",
    "url": "https://veritahire.com/j/104320280"
   },
   {
@@ -487,19 +1653,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$19.50/hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:28",
+   "last_confirmed": "2026-11-28 00:47",
    "url": "https://veritahire.com/j/104305644"
-  },
-  {
-   "title": "E-Commerce Associate I - Post Falls, ID - Full-time/Hourly",
-   "employer": "Goodwill Industries of the Inland Northwest",
-   "location": "Post Falls, ID",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$16.31 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:56",
-   "url": "https://veritahire.com/j/104271860"
   },
   {
    "title": "Facility Associate I - Post Falls, ID - Full &/or Part-time/Hourly",
@@ -509,8 +1664,19 @@
    "employment_type": "part_time",
    "pay_as_posted": "$16.31 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:56",
+   "last_confirmed": "2026-11-28 00:20",
    "url": "https://veritahire.com/j/104271865"
+  },
+  {
+   "title": "E-Commerce Associate I - Post Falls, ID - Full-time/Hourly",
+   "employer": "Goodwill Industries of the Inland Northwest",
+   "location": "Post Falls, ID",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16.31 per hour",
+   "first_seen": "2026-11-26",
+   "last_confirmed": "2026-11-28 00:20",
+   "url": "https://veritahire.com/j/104271860"
   },
   {
    "title": "Donor Services Associate I - Post Falls, ID - Full &/or Part-time/Hourly",
@@ -520,19 +1686,8 @@
    "employment_type": "part_time",
    "pay_as_posted": "$16.31 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:56",
+   "last_confirmed": "2026-11-28 00:20",
    "url": "https://veritahire.com/j/104271858"
-  },
-  {
-   "title": "CTHCA Dental Assistant Trainee (CS-50324)",
-   "employer": "Confederated Tribes of the Colville Reservation",
-   "location": "Nespelem - Nespelem, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$26.32 - $26.32 Hourly",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:48",
-   "url": "https://veritahire.com/j/104267701"
   },
   {
    "title": "CTHCA Dental Assistant Trainee (CS-50323)",
@@ -542,41 +1697,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$26.32 - $26.32 Hourly",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:48",
+   "last_confirmed": "2026-11-27 23:57",
    "url": "https://veritahire.com/j/104267702"
   },
   {
-   "title": "Technology Transactions Associate Attorney (Atlanta/Dallas)",
-   "employer": "United Future",
-   "location": "Atlanta, GA",
+   "title": "CTHCA Dental Assistant Trainee (CS-50324)",
+   "employer": "Confederated Tribes of the Colville Reservation",
+   "location": "Nespelem - Nespelem, WA",
    "remote": false,
    "employment_type": "full_time",
-   "pay_as_posted": "$235K–$310K",
+   "pay_as_posted": "$26.32 - $26.32 Hourly",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:38",
-   "url": "https://veritahire.com/j/104256133"
-  },
-  {
-   "title": "Technology Transactions Associate Attorney (Atlanta, GA)",
-   "employer": "United Future",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$190K–$250K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:38",
-   "url": "https://veritahire.com/j/104256146"
-  },
-  {
-   "title": "Technology Transactions Mid-Level Associate Attorney",
-   "employer": "United Future",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$125K–$285K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:38",
-   "url": "https://veritahire.com/j/104256161"
+   "last_confirmed": "2026-11-27 23:57",
+   "url": "https://veritahire.com/j/104267701"
   },
   {
    "title": "ACCOUNTANT TRAINEE",
@@ -586,7 +1719,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$53,304 - $63,552/yr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 08:30",
+   "last_confirmed": "2026-11-27 08:32",
    "url": "https://veritahire.com/j/104255886"
   },
   {
@@ -597,7 +1730,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$44,688 - $69,720/yr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 08:26",
+   "last_confirmed": "2026-11-27 08:26",
    "url": "https://veritahire.com/j/104247025"
   },
   {
@@ -608,7 +1741,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$47,208 - $59,076/yr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 08:25",
+   "last_confirmed": "2026-11-27 08:26",
    "url": "https://veritahire.com/j/104246934"
   },
   {
@@ -619,7 +1752,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$25.75/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:28",
+   "last_confirmed": "2026-11-27 23:38",
    "url": "https://veritahire.com/j/104241032"
   },
   {
@@ -630,7 +1763,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$33.80/HR",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:27",
+   "last_confirmed": "2026-11-27 23:36",
    "url": "https://veritahire.com/j/104240752"
   },
   {
@@ -641,7 +1774,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$47K–$63K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:18",
+   "last_confirmed": "2026-11-27 23:31",
    "url": "https://veritahire.com/j/104235945"
   },
   {
@@ -652,7 +1785,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$23.00 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:07",
+   "last_confirmed": "2026-11-27 23:30",
    "url": "https://veritahire.com/j/104231704"
   },
   {
@@ -663,8 +1796,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$17.00/hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:02",
-   "url": "https://veritahire.com/j/104230895"
+   "last_confirmed": "2026-11-27 23:33",
+   "url": "https://veritahire.com/j/104230898"
   },
   {
    "title": "Electrician Apprentice - 2nd Shift",
@@ -674,8 +1807,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18.50/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:02",
-   "url": "https://veritahire.com/j/104230896"
+   "last_confirmed": "2026-11-27 23:33",
+   "url": "https://veritahire.com/j/104230897"
   },
   {
    "title": "Maintenance Technician I",
@@ -685,7 +1818,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$25–$28/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:59",
+   "last_confirmed": "2026-11-27 23:22",
    "url": "https://veritahire.com/j/104230763"
   },
   {
@@ -696,7 +1829,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$26.84 - $49.10 hourly",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:56",
+   "last_confirmed": "2026-11-27 23:25",
    "url": "https://veritahire.com/j/104229316"
   },
   {
@@ -707,7 +1840,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$51K–$82K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:11",
    "url": "https://veritahire.com/j/104228676"
   },
   {
@@ -718,7 +1851,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$86K–$138K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:11",
    "url": "https://veritahire.com/j/104228490"
   },
   {
@@ -729,7 +1862,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18.00 - $24.00 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:50",
+   "last_confirmed": "2026-11-27 23:14",
    "url": "https://veritahire.com/j/104224828"
   },
   {
@@ -740,19 +1873,19 @@
    "employment_type": "part_time",
    "pay_as_posted": "$48K–$75K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:49",
+   "last_confirmed": "2026-11-27 23:14",
    "url": "https://veritahire.com/j/104223586"
   },
   {
    "title": "Electrical Engineer 1 (Entry-Level) - Mission Critical",
    "employer": "Sargent & Lundy",
-   "location": "Albuquerque, NM",
+   "location": "Richland, WA",
    "remote": false,
    "employment_type": "full_time",
    "pay_as_posted": "$63K–$91K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:48",
-   "url": "https://veritahire.com/j/104221015"
+   "last_confirmed": "2026-11-27 23:01",
+   "url": "https://veritahire.com/j/104221021"
   },
   {
    "title": "Entry-level Lube Tech/Technician (Part Time)",
@@ -762,7 +1895,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$15.25 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:48",
+   "last_confirmed": "2026-11-27 23:01",
    "url": "https://veritahire.com/j/104220859"
   },
   {
@@ -773,19 +1906,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$69K–$131K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:49",
+   "last_confirmed": "2026-11-27 23:13",
    "url": "https://veritahire.com/j/104219539"
-  },
-  {
-   "title": "Warehouse Associate 1 - Part Time",
-   "employer": "Sephora",
-   "location": "NV",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$19.50/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:38",
-   "url": "https://veritahire.com/j/104213802"
   },
   {
    "title": "Production Associate I (Balloons) Second Shift",
@@ -795,7 +1917,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18/hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:37",
+   "last_confirmed": "2026-11-27 22:51",
    "url": "https://veritahire.com/j/104213425"
   },
   {
@@ -806,7 +1928,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$35.35–$53.58/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:37",
+   "last_confirmed": "2026-11-27 22:51",
    "url": "https://veritahire.com/j/104213306"
   },
   {
@@ -817,7 +1939,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$150,000 - $269,850 annually",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:25",
+   "last_confirmed": "2026-11-27 22:40",
    "url": "https://veritahire.com/j/104212303"
   },
   {
@@ -828,7 +1950,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$275K–$900K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:24",
+   "last_confirmed": "2026-11-27 22:40",
    "url": "https://veritahire.com/j/104211269"
   },
   {
@@ -839,8 +1961,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$65,500.00 - $121,700.00",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:02",
-   "url": "https://veritahire.com/j/104210460"
+   "last_confirmed": "2026-11-27 23:24",
+   "url": "https://veritahire.com/j/104210462"
   },
   {
    "title": "Entry Level Accounting - Accounts Payable Clerk",
@@ -850,7 +1972,7 @@
    "employment_type": "contract",
    "pay_as_posted": "$20.00 - $27.00/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:15",
+   "last_confirmed": "2026-11-27 22:31",
    "url": "https://veritahire.com/j/104207678"
   },
   {
@@ -861,7 +1983,7 @@
    "employment_type": "contract",
    "pay_as_posted": "$21.00/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:15",
+   "last_confirmed": "2026-11-27 22:31",
    "url": "https://veritahire.com/j/104207297"
   },
   {
@@ -872,899 +1994,8 @@
    "employment_type": "contract",
    "pay_as_posted": "$21.00 - $21.00/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:15",
+   "last_confirmed": "2026-11-27 22:31",
    "url": "https://veritahire.com/j/104207278"
-  },
-  {
-   "title": "Clinical Social Worker, 40 hour Days, Marlborough Campus",
-   "employer": "Umass Memorial Health",
-   "location": "Marlborough, MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$64K–$115K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:42",
-   "url": "https://veritahire.com/j/104194487"
-  },
-  {
-   "title": "Service Desk Technician I",
-   "employer": "Ntiva, Inc.",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$50,000 per year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:42",
-   "url": "https://veritahire.com/j/104191893"
-  },
-  {
-   "title": "TCC Wireless - FL Jacksonville (University) - RSR -PT - T-Mobile",
-   "employer": "Tcc Wireless (t-mobile)",
-   "location": "Jacksonville, FL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$20/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:35",
-   "url": "https://veritahire.com/j/104189283"
-  },
-  {
-   "title": "DevOps Engineer I",
-   "employer": "Early Warning®",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$72K–$88K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:34",
-   "url": "https://veritahire.com/j/104186704"
-  },
-  {
-   "title": "Nursing Assistant Trainee - FT - Days",
-   "employer": "Sanford Health",
-   "location": "Tyndall, SD",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:28",
-   "url": "https://veritahire.com/j/104183956"
-  },
-  {
-   "title": "2027 Associate Software Quality Engineer - San Diego",
-   "employer": "Northrop Grumman",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$ 69,400.00 - $104,000.00/year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:26",
-   "url": "https://veritahire.com/j/104183871"
-  },
-  {
-   "title": "AI Engineer I",
-   "employer": "Duly Health and Care",
-   "location": "Downers Grove, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$54K–$85K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:12",
-   "url": "https://veritahire.com/j/104178647"
-  },
-  {
-   "title": "Test Engineer I",
-   "employer": "Toro",
-   "location": "Riverside, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$73K–$91K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:06",
-   "url": "https://veritahire.com/j/104176894"
-  },
-  {
-   "title": "New Grad RN Lutheran Hospital Float Pool",
-   "employer": "Intermountain Health",
-   "location": "CO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$37.56–$57.29/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:57",
-   "url": "https://veritahire.com/j/104171714"
-  },
-  {
-   "title": "Registered Nurse New Graduate Medical/Orthopedic Unit",
-   "employer": "Intermountain Health",
-   "location": "UT",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$32.27/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:57",
-   "url": "https://veritahire.com/j/104171703"
-  },
-  {
-   "title": "Entry-Level Recruiting Assistant",
-   "employer": "Haynes and Boone",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$63K–$65K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:53",
-   "url": "https://veritahire.com/j/104170929"
-  },
-  {
-   "title": "Junior Copywriter",
-   "employer": "Veterinary Emergency Group (VEG)",
-   "location": "White Plains, NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$65K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:53",
-   "url": "https://veritahire.com/j/104170926"
-  },
-  {
-   "title": "Personal Banker Associate I - Naperville East - Forward",
-   "employer": "Fifth Third Bank",
-   "location": "Naperville, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$70K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104170150"
-  },
-  {
-   "title": "Personal Banker Associate I - Cicero",
-   "employer": "Fifth Third Bank",
-   "location": "Cicero, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$70K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104170146"
-  },
-  {
-   "title": "New Graduate RN Residency, Cardiac/ Medical IMCU, Day/ Nights, (March 2027)",
-   "employer": "Boston Medical Center (bmc)",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$38.05–$75.33/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104170097"
-  },
-  {
-   "title": "New Graduate RN Residency, Cardiac/ Medical IMCU, Nights (March 2027)",
-   "employer": "Boston Medical Center (bmc)",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$38.05–$75.33/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104170098"
-  },
-  {
-   "title": "Park Technician I",
-   "employer": "City of Manhattan, Kansas",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$21.60 - $25.93/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:44",
-   "url": "https://veritahire.com/j/104169539"
-  },
-  {
-   "title": "OSHA SAFETY CONSULTANT TRAINEE / OSHA OCCUPATIONAL SAFETY CONSULTANT",
-   "employer": "State of Louisiana",
-   "location": "LA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$20.92 hourly",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:42",
-   "url": "https://veritahire.com/j/104169164"
-  },
-  {
-   "title": "Inspector Apprentice (Manheim)",
-   "employer": "Cox",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$13.70 - $20.53/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:43",
-   "url": "https://veritahire.com/j/104169033"
-  },
-  {
-   "title": "Vehicle Operations Check - In Specialist I",
-   "employer": "Cox",
-   "location": "WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$18.17 - $27.21/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:43",
-   "url": "https://veritahire.com/j/104169027"
-  },
-  {
-   "title": "Junior Human Resources Associate",
-   "employer": "L'Oreal (incl. SalonCentric)",
-   "location": "Piscataway, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$29/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:43",
-   "url": "https://veritahire.com/j/104168985"
-  },
-  {
-   "title": "Budget Management Analyst 1",
-   "employer": "Prince George's County, MD",
-   "location": "Prince George's County, MD",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$63K–$86K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:37",
-   "url": "https://veritahire.com/j/104168293"
-  },
-  {
-   "title": "Junior Software Engineer",
-   "employer": "Trideum Corporation",
-   "location": "Fort Belvoir, VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$120K–$125K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:30",
-   "url": "https://veritahire.com/j/104168227"
-  },
-  {
-   "title": "Mechanical Engineering New Grad | New York, NY",
-   "employer": "IMEG",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$82K–$86K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:21",
-   "url": "https://veritahire.com/j/104166793"
-  },
-  {
-   "title": "Entry Level Pest Control Technician - Jacobus, PA",
-   "employer": "Chemtec Pest Control Corp.",
-   "location": "Jacobus, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$19 - $21 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:27",
-   "url": "https://veritahire.com/j/104166627"
-  },
-  {
-   "title": "Entry Level Pest Control Technician - Midland Park, NJ",
-   "employer": "Chemtec Pest Control Corp.",
-   "location": "Midland Park, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$19 - $21 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:27",
-   "url": "https://veritahire.com/j/104166628"
-  },
-  {
-   "title": "Entry Level Pest Control Technician - South Brunswick Township, NJ",
-   "employer": "Chemtec Pest Control Corp.",
-   "location": "South Brunswick Township, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$19 - $21 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:27",
-   "url": "https://veritahire.com/j/104166629"
-  },
-  {
-   "title": "Engineer I",
-   "employer": "City of San Antonio",
-   "location": "San Antonio, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$86K–$129K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:23",
-   "url": "https://veritahire.com/j/104164601"
-  },
-  {
-   "title": "Medical Assistant Apprenticeship - Prudenville Family Practice",
-   "employer": "Munson Healthcare",
-   "location": "Prudenville, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17.01 / hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:23",
-   "url": "https://veritahire.com/j/104164384"
-  },
-  {
-   "title": "Facilities Technician I",
-   "employer": "Pridestaff",
-   "location": "Santa Clara, CA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$24.00-$28.00/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:22",
-   "url": "https://veritahire.com/j/104161406"
-  },
-  {
-   "title": "Bilingual Entry Level Bilingual Customer Service Representative- College Degree Required",
-   "employer": "Pridestaff",
-   "location": "Irving, TX",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$25.00 - $25.00 Per Hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:22",
-   "url": "https://veritahire.com/j/104161392"
-  },
-  {
-   "title": "Warehouse Associate I",
-   "employer": "Core & Main",
-   "location": "Denver, CO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$15.16 - $19.92 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:12",
-   "url": "https://veritahire.com/j/104152682"
-  },
-  {
-   "title": "Associate Faculty - PMHNP Neuropsychiatric Pharmacology Graduate - Part Time (Virtual)",
-   "employer": "University of Phoenix",
-   "location": "Phoenix, AZ",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$31.25/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:09",
-   "url": "https://veritahire.com/j/104150976"
-  },
-  {
-   "title": "Management Trainee",
-   "employer": "SIXT",
-   "location": "San Francisco, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$27.35/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:07",
-   "url": "https://veritahire.com/j/104148663"
-  },
-  {
-   "title": "Junior Engineering Technologist - Natural Gas",
-   "employer": "Spectra Energy",
-   "location": "Apex, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$28.50-$32.00/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:06",
-   "url": "https://veritahire.com/j/104142471"
-  },
-  {
-   "title": "Pharmacy Technician I",
-   "employer": "Patterson Companies",
-   "location": "Primary Location: Twin Falls, ID",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17.36–$22.55/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:59",
-   "url": "https://veritahire.com/j/104141061"
-  },
-  {
-   "title": "Associate Analyst - Operations Performance & Analytics",
-   "employer": "United Airlines",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$54K–$70K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:51",
-   "url": "https://veritahire.com/j/104133293"
-  },
-  {
-   "title": "Service Technician I",
-   "employer": "Bh",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$25/HR",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:39",
-   "url": "https://veritahire.com/j/104132680"
-  },
-  {
-   "title": "Account Executive - Online Division - Grand Canyon University",
-   "employer": "Grand Canyon Education",
-   "location": "SC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$75,000 per year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:28",
-   "url": "https://veritahire.com/j/104131199"
-  },
-  {
-   "title": "Admissions Counselor - Traditional Ground Campus - Scottsdale/PV/Phx 2",
-   "employer": "Grand Canyon Education",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$40,000 per year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:28",
-   "url": "https://veritahire.com/j/104131200"
-  },
-  {
-   "title": "Benefit Programs Specialist I/II",
-   "employer": "York County, Virginia",
-   "location": "Covington, VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$36K–$69K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:25",
-   "url": "https://veritahire.com/j/104128897"
-  },
-  {
-   "title": "Environmental Services Assistant I - Full Time - Evening Shift - 3pm - 11:30pm Shift - Every Other Weekend and Holiday - Union/Elkton Campus",
-   "employer": "ChristianaCare",
-   "location": "Elkton, MD",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17.80/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:30",
-   "url": "https://veritahire.com/j/104124609"
-  },
-  {
-   "title": "Environmental Services Assistant II - Full Time - Evening Shift - 3pm - 11:30pm Shift - Every Other Weekend and Holiday - Middletown Campus",
-   "employer": "ChristianaCare",
-   "location": "Middletown, DE",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$18.23/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:30",
-   "url": "https://veritahire.com/j/104124613"
-  },
-  {
-   "title": "Registered Nurse (RN) Unit-Based Rotational Float Pool (Full-Time Flex)",
-   "employer": "ChristianaCare",
-   "location": "Newark, DE",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$42.11–$67.37/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:30",
-   "url": "https://veritahire.com/j/104124615"
-  },
-  {
-   "title": "Transactions Specialist I - Receivable Operations",
-   "employer": "JPMorgan Chase",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$22.50–$26.53/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:20",
-   "url": "https://veritahire.com/j/104117300"
-  },
-  {
-   "title": "Diesel Mechanic Apprentice",
-   "employer": "Saia",
-   "location": "Columbus, OH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$29.55 - $34.30 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:08",
-   "url": "https://veritahire.com/j/104113473"
-  },
-  {
-   "title": "Library Associate I, Part-Time",
-   "employer": "Lexington Public Library",
-   "location": "KY",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$16.16/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:52",
-   "url": "https://veritahire.com/j/104103943"
-  },
-  {
-   "title": "Overnight Pharmacy Technician/Trainee, Chartwell Infusion Pharmacy",
-   "employer": "UPMC",
-   "location": "Oakdale, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$ 19.2-30.08 USD",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:48",
-   "url": "https://veritahire.com/j/104102859"
-  },
-  {
-   "title": "Occupational Therapist - New Grads are Encouraged to Apply!",
-   "employer": "UPMC",
-   "location": "Harrisburg, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$ 34.92-54.16 USD",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:48",
-   "url": "https://veritahire.com/j/104102822"
-  },
-  {
-   "title": "Hematology Technician I (Overnight Shift)",
-   "employer": "Antech",
-   "location": "Southaven, MS",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17.84 an hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:47",
-   "url": "https://veritahire.com/j/104102711"
-  },
-  {
-   "title": "Automotive Leadership Development Program",
-   "employer": "AAA The Auto Club",
-   "location": "GA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$55,000 - $80,000 annually",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:47",
-   "url": "https://veritahire.com/j/104102643"
-  },
-  {
-   "title": "Junior Public Credit Analyst",
-   "employer": "Pacific Life",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$103K–$126K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:43",
-   "url": "https://veritahire.com/j/104102141"
-  },
-  {
-   "title": "Associate Engineer - QA, Thrivent Asset Management",
-   "employer": "Thrivent",
-   "location": "MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$72,031.00 - $97,455.00 per year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:36",
-   "url": "https://veritahire.com/j/104098757"
-  },
-  {
-   "title": "Graduate Nurse - Acute Cardiac Unit",
-   "employer": "Trinity Health",
-   "location": "Silver Spring, MD",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$38.92–$55.68/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:37",
-   "url": "https://veritahire.com/j/104096553"
-  },
-  {
-   "title": "Management Trainee - Naperville",
-   "employer": "Jc Licht",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$20-$22/ hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:42",
-   "url": "https://veritahire.com/j/104094053"
-  },
-  {
-   "title": "Associate Talent Acquisition Partner - Early Careers & Recruitment",
-   "employer": "Orlando Utilities Commission (ouc - the Reliable One)",
-   "location": "Orlando, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$27.30–$34.13/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:36",
-   "url": "https://veritahire.com/j/104093793"
-  },
-  {
-   "title": "Campus Campaign Organizer- New Mexico",
-   "employer": "The Outreach Team",
-   "location": "Albuquerque, NM",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$55K–$60K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:48",
-   "url": "https://veritahire.com/j/104093099"
-  },
-  {
-   "title": "Campus Campaign Organizer- New Hampshire",
-   "employer": "The Outreach Team",
-   "location": "Durham, NH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$55K–$60K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:48",
-   "url": "https://veritahire.com/j/104093098"
-  },
-  {
-   "title": "Pharmacy Technician I",
-   "employer": "Advocate Health (careers.advocatehealth.org)",
-   "location": "Libertyville, IL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$21.85 - $32.80",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:36",
-   "url": "https://veritahire.com/j/104092948"
-  },
-  {
-   "title": "Pharmacy Technician Specialist I - Medication History - Good Samaritan Hospital",
-   "employer": "Advocate Health (careers.advocatehealth.org)",
-   "location": "Downers Grove, IL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$24.10 - $36.15",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:36",
-   "url": "https://veritahire.com/j/104092891"
-  },
-  {
-   "title": "Shuttle Driver Trainee - CDL",
-   "employer": "Externalsp Spplus",
-   "location": "SALT LAKE CITY, UT",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$23.00 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104090096"
-  },
-  {
-   "title": "Legacy Hospitals Multi-Campus Attendant/Driver",
-   "employer": "Externalsp Spplus",
-   "location": "PORTLAND, OR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$18.00 / hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104089926"
-  },
-  {
-   "title": "Maintenance Technician I",
-   "employer": "Sares Regis Group",
-   "location": "Pico Rivera, CA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$20.00-$25.00/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104089344"
-  },
-  {
-   "title": "Supply Replenisher Associate I",
-   "employer": "Quest Diagnostics",
-   "location": "Southfield, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$17.03 an hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:38",
-   "url": "https://veritahire.com/j/104088114"
-  },
-  {
-   "title": "Retail Sales Associate, University Square - Full Time",
-   "employer": "Macy's",
-   "location": "University Heights, OH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$15.00 an hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:34",
-   "url": "https://veritahire.com/j/104086685"
-  },
-  {
-   "title": "Data Scientist, Junior",
-   "employer": "Booz Allen Hamilton",
-   "location": "San Diego, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$62K–$141K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:29",
-   "url": "https://veritahire.com/j/104085277"
-  },
-  {
-   "title": "Pumps, Chiller, Scrubber Maintenance Technician Apprentice",
-   "employer": "GlobalFoundries",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$36K–$59K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104084083"
-  },
-  {
-   "title": "AltaGas - Operator Trainee, Ferndale",
-   "employer": "Washington Gas",
-   "location": "Ferndale, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$35.48/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
-   "url": "https://veritahire.com/j/104083816"
-  },
-  {
-   "title": "Sales Associate Development Program (Smyrna, TN)",
-   "employer": "RR Donnelley",
-   "location": "Nashville, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$50,000 to $60,000 / year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
-   "url": "https://veritahire.com/j/104082685"
-  },
-  {
-   "title": "Sales Associate Development Program (Chanhassen, MN)",
-   "employer": "RR Donnelley",
-   "location": "Minneapolis, MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$50,000 to $60,000 / year",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
-   "url": "https://veritahire.com/j/104082650"
-  },
-  {
-   "title": "Graduate Research Appointment - Kadirvel Lab - Limited Tenure",
-   "employer": "Mayo Clinic",
-   "location": "Rochester, MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$80 an hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
-   "url": "https://veritahire.com/j/104082550"
-  },
-  {
-   "title": "Patient Care Technician I - ICU - Full Time - Days",
-   "employer": "Mohawk Valley Health System",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$18 - $23 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:16",
-   "url": "https://veritahire.com/j/104082358"
-  },
-  {
-   "title": "Campus Liaison",
-   "employer": "Samsung Semiconductor",
-   "location": "Austin, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$90K–$120K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104077540"
-  },
-  {
-   "title": "Engineer I- Process (Thin Films/CMP)",
-   "employer": "Microchip Technology",
-   "location": "CO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$70–$110K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:28",
-   "url": "https://veritahire.com/j/104077535"
-  },
-  {
-   "title": "Entry-Level Warehouse",
-   "employer": "Iowa 80 Group",
-   "location": "Walcott, IA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$15/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:08",
-   "url": "https://veritahire.com/j/104077069"
-  },
-  {
-   "title": "Member Relationship Associate I (Hawaii Kai Safeway Branch)",
-   "employer": "Hawaii State Federal Credit Union",
-   "location": "Honolulu, HI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$22.40/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:33",
-   "url": "https://veritahire.com/j/104075551"
-  },
-  {
-   "title": "Overnight Engineer I",
-   "employer": "Marriott International",
-   "location": "Goleta, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$29.00-$29.00 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:29",
-   "url": "https://veritahire.com/j/104058944"
-  },
-  {
-   "title": "Registered Nurse - L&D / Per Diem / Rotational",
-   "employer": "United Health Services",
-   "location": "Johnson City, NY",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$40.70 - $61.05 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:07",
-   "url": "https://veritahire.com/j/104058354"
-  },
-  {
-   "title": "Test Engineer I",
-   "employer": "Ventrac",
-   "location": "Riverside, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$73K–$91K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:07",
-   "url": "https://veritahire.com/j/104057877"
-  },
-  {
-   "title": "Development Operations Engineer I or II",
-   "employer": "Otter Tail Corporation",
-   "location": "Fergus Falls, MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$76,000 - $127,000 annually",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 04:47",
-   "url": "https://veritahire.com/j/104055185"
-  },
-  {
-   "title": "Visual Communication and Design Specialist I or II",
-   "employer": "Otter Tail Corporation",
-   "location": "Fergus Falls, MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$63,000 - $105,000 annually",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 04:47",
-   "url": "https://veritahire.com/j/104055116"
   },
   {
    "title": "Developmental Specialist I - Developmental Screening & Enhancement Program (Casual)",
@@ -1774,7 +2005,7 @@
    "employment_type": null,
    "pay_as_posted": "$25.47–$35.03/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:30",
+   "last_confirmed": "2026-11-28 01:50",
    "url": "https://veritahire.com/j/105027406"
   },
   {
@@ -1785,7 +2016,7 @@
    "employment_type": null,
    "pay_as_posted": "$16.50 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:48",
+   "last_confirmed": "2026-11-27 23:01",
    "url": "https://veritahire.com/j/104846302"
   },
   {
@@ -1796,7 +2027,7 @@
    "employment_type": null,
    "pay_as_posted": "$42K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
+   "last_confirmed": "2026-11-27 18:53",
    "url": "https://veritahire.com/j/104723611"
   },
   {
@@ -1807,7 +2038,7 @@
    "employment_type": null,
    "pay_as_posted": "$92K–$130K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:50",
+   "last_confirmed": "2026-11-28 04:15",
    "url": "https://veritahire.com/j/104520625"
   },
   {
@@ -1818,7 +2049,7 @@
    "employment_type": null,
    "pay_as_posted": "$49K",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:43",
+   "last_confirmed": "2026-11-28 03:56",
    "url": "https://veritahire.com/j/104500572"
   },
   {
@@ -1829,7 +2060,7 @@
    "employment_type": null,
    "pay_as_posted": "$26.69 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:43",
+   "last_confirmed": "2026-11-28 03:56",
    "url": "https://veritahire.com/j/104500557"
   },
   {
@@ -1840,8 +2071,19 @@
    "employment_type": null,
    "pay_as_posted": "$30.95 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:22",
+   "last_confirmed": "2026-11-28 00:38",
    "url": "https://veritahire.com/j/104290296"
+  },
+  {
+   "title": "Material Status Specialist (Production Control Specialist 1)",
+   "employer": "Los Alamos National Laboratory",
+   "location": "Los Alamos, NM",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$60K–$94K",
+   "first_seen": "2026-11-26",
+   "last_confirmed": "2026-11-28 00:20",
+   "url": "https://veritahire.com/j/104271839"
   },
   {
    "title": "Public Infrastructure Inspector Trainee (Wastewater Operations)",
@@ -1851,7 +2093,7 @@
    "employment_type": null,
    "pay_as_posted": "$18.99–$24.88/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:29",
+   "last_confirmed": "2026-11-27 23:49",
    "url": "https://veritahire.com/j/104242798"
   },
   {
@@ -1862,19 +2104,19 @@
    "employment_type": null,
    "pay_as_posted": "$28.00 - $30.00 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:16",
+   "last_confirmed": "2026-11-27 23:31",
    "url": "https://veritahire.com/j/104234291"
   },
   {
    "title": "Apprentice Electrician - BAS Installations",
    "employer": "Kelso Industries",
-   "location": "Salt Lake City, UT",
+   "location": "Phoenix, AZ",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": "$35/hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:16",
-   "url": "https://veritahire.com/j/104234108"
+   "last_confirmed": "2026-11-27 23:31",
+   "url": "https://veritahire.com/j/104234109"
   },
   {
    "title": "Job Coach -Sodexo at California State University San Marcos (M-F 3:30 to 9:30 p.m)",
@@ -1884,7 +2126,7 @@
    "employment_type": null,
    "pay_as_posted": "$20.00 per hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:49",
+   "last_confirmed": "2026-11-27 23:14",
    "url": "https://veritahire.com/j/104223998"
   },
   {
@@ -1895,7 +2137,7 @@
    "employment_type": null,
    "pay_as_posted": "$28.24–$36.54/hr",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:50",
+   "last_confirmed": "2026-11-27 23:17",
    "url": "https://veritahire.com/j/104220282"
   },
   {
@@ -1906,151 +2148,8 @@
    "employment_type": null,
    "pay_as_posted": "$25.00 - $33.68 an hour",
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:04",
+   "last_confirmed": "2026-11-27 22:26",
    "url": "https://veritahire.com/j/104202847"
-  },
-  {
-   "title": "General Maintenance I - Lesley University Facilities",
-   "employer": "Aramark",
-   "location": "MA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$32.03/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:05",
-   "url": "https://veritahire.com/j/104202657"
-  },
-  {
-   "title": "UC&M Mechanic 1/C, 2/C Acceptable Apprentice",
-   "employer": "Iberdrola Group (Avangrid)",
-   "location": "NY",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$39.41–$62.68/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:43",
-   "url": "https://veritahire.com/j/104193264"
-  },
-  {
-   "title": "Apprentice Technician/Mechanic",
-   "employer": "Bmw Portland",
-   "location": "CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$23 - $27/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:35",
-   "url": "https://veritahire.com/j/104188173"
-  },
-  {
-   "title": "IT Client Support Specialist 1/2 (PCN 028094)",
-   "employer": "State of Alaska",
-   "location": "Juneau, AK",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$28.83–$33.12/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104169995"
-  },
-  {
-   "title": "R00122417 Grant/Accounting Analyst 1- Billing (Entry Level)",
-   "employer": "State of Louisiana",
-   "location": "LA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$60K–$63K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:42",
-   "url": "https://veritahire.com/j/104169169"
-  },
-  {
-   "title": "Accountant I/II - Fiscal Department - Behavioral Health",
-   "employer": "County of Riverside",
-   "location": "Riverside, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$32.50 - $45.09 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:21",
-   "url": "https://veritahire.com/j/104166959"
-  },
-  {
-   "title": "Maintenance Technician I Bridges",
-   "employer": "Chester County",
-   "location": "PA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$19.84/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:29",
-   "url": "https://veritahire.com/j/104124619"
-  },
-  {
-   "title": "Electrical Safety Inspection - Sales Trainee",
-   "employer": "ASI Hastings",
-   "location": "San Diego, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$50K–$80K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:23",
-   "url": "https://veritahire.com/j/104121687"
-  },
-  {
-   "title": "Behavioral Specialist I - ACCS",
-   "employer": "Eliot Community Human Services",
-   "location": "MA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$20.50/hr",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:14",
-   "url": "https://veritahire.com/j/104120570"
-  },
-  {
-   "title": "Service Desk Specialist I",
-   "employer": "Einstein Bros. Bagels",
-   "location": "US - Brooklyn Center, MN",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$20.82 - $34.96 per hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:58",
-   "url": "https://veritahire.com/j/104104719"
-  },
-  {
-   "title": "Central Supply Technician I - Kettering 3rd Shift",
-   "employer": "Community Blood Center",
-   "location": "Kettering, OH",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$21.00/hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:46",
-   "url": "https://veritahire.com/j/104099876"
-  },
-  {
-   "title": "Project Controls Entry-Level",
-   "employer": "Tetra Tech",
-   "location": "Englewood, CO",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$60K–$100K",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:33",
-   "url": "https://veritahire.com/j/104084555"
-  },
-  {
-   "title": "Onboarding Configuration Specialist I",
-   "employer": "Nelnet",
-   "location": "Lincoln, NE",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$22.60- $25.00 an hour",
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:08",
-   "url": "https://veritahire.com/j/104059594"
   },
   {
    "title": "ENTRY LEVEL - Maintenance Engineer",
@@ -2060,19 +2159,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:04",
+   "last_confirmed": "2026-11-28 01:24",
    "url": "https://veritahire.com/j/104997002"
-  },
-  {
-   "title": "Graduate Nurse - Med/Surg",
-   "employer": "MyMichigan Health",
-   "location": "Sault Ste. Marie, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:35",
-   "url": "https://veritahire.com/j/104882083"
   },
   {
    "title": "Graduate Nurse - ED",
@@ -2082,8 +2170,19 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:35",
+   "last_confirmed": "2026-11-28 00:50",
    "url": "https://veritahire.com/j/104882088"
+  },
+  {
+   "title": "Graduate Nurse - Med/Surg",
+   "employer": "MyMichigan Health",
+   "location": "Sault Ste. Marie, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-11-26",
+   "last_confirmed": "2026-11-28 00:50",
+   "url": "https://veritahire.com/j/104882083"
   },
   {
    "title": "Entry Level Behavior Technician (Paid RBT Training) - Sidney, NE",
@@ -2093,7 +2192,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:48",
+   "last_confirmed": "2026-11-27 23:11",
    "url": "https://veritahire.com/j/104846349"
   },
   {
@@ -2104,7 +2203,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:24",
+   "last_confirmed": "2026-11-27 19:39",
    "url": "https://veritahire.com/j/104755397"
   },
   {
@@ -2115,7 +2214,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:42",
+   "last_confirmed": "2026-11-28 03:07",
    "url": "https://veritahire.com/j/104451353"
   },
   {
@@ -2126,7 +2225,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:40",
+   "last_confirmed": "2026-11-28 02:58",
    "url": "https://veritahire.com/j/104437100"
   },
   {
@@ -2137,7 +2236,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:04",
+   "last_confirmed": "2026-11-28 01:24",
    "url": "https://veritahire.com/j/104339927"
   },
   {
@@ -2148,7 +2247,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 22:29",
+   "last_confirmed": "2026-11-28 00:48",
    "url": "https://veritahire.com/j/104307182"
   },
   {
@@ -2159,7 +2258,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:58",
+   "last_confirmed": "2026-11-28 00:14",
    "url": "https://veritahire.com/j/104272938"
   },
   {
@@ -2170,7 +2269,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:50",
+   "last_confirmed": "2026-11-28 00:07",
    "url": "https://veritahire.com/j/104270126"
   },
   {
@@ -2181,7 +2280,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:47",
+   "last_confirmed": "2026-11-28 00:25",
    "url": "https://veritahire.com/j/104266065"
   },
   {
@@ -2192,7 +2291,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:20",
+   "last_confirmed": "2026-11-27 23:35",
    "url": "https://veritahire.com/j/104237696"
   },
   {
@@ -2203,7 +2302,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:19",
+   "last_confirmed": "2026-11-27 23:37",
    "url": "https://veritahire.com/j/104237574"
   },
   {
@@ -2214,7 +2313,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:18",
+   "last_confirmed": "2026-11-27 23:30",
    "url": "https://veritahire.com/j/104235448"
   },
   {
@@ -2225,7 +2324,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:19",
+   "last_confirmed": "2026-11-27 23:34",
    "url": "https://veritahire.com/j/104235379"
   },
   {
@@ -2236,7 +2335,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:59",
+   "last_confirmed": "2026-11-27 23:18",
    "url": "https://veritahire.com/j/104230232"
   },
   {
@@ -2247,7 +2346,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:12",
    "url": "https://veritahire.com/j/104229975"
   },
   {
@@ -2258,7 +2357,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:14",
    "url": "https://veritahire.com/j/104229892"
   },
   {
@@ -2269,7 +2368,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:12",
    "url": "https://veritahire.com/j/104226867"
   },
   {
@@ -2280,7 +2379,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:57",
+   "last_confirmed": "2026-11-27 23:12",
    "url": "https://veritahire.com/j/104226811"
   },
   {
@@ -2291,7 +2390,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:50",
+   "last_confirmed": "2026-11-27 23:14",
    "url": "https://veritahire.com/j/104224672"
   },
   {
@@ -2302,7 +2401,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:47",
+   "last_confirmed": "2026-11-27 23:00",
    "url": "https://veritahire.com/j/104221234"
   },
   {
@@ -2313,602 +2412,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:37",
+   "last_confirmed": "2026-11-27 22:51",
    "url": "https://veritahire.com/j/104213300"
-  },
-  {
-   "title": "Junior Groomer",
-   "employer": "Petco",
-   "location": "Williamson, TN",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:03",
-   "url": "https://veritahire.com/j/104202470"
-  },
-  {
-   "title": "Security Monitor - 6-12 Campus *Anticipated Opening*",
-   "employer": "Ohio K-12 Jobs (SchoolSpring statewide, META Solutions)",
-   "location": "Cuyahoga Falls, OH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:57",
-   "url": "https://veritahire.com/j/104196082"
-  },
-  {
-   "title": "Medical Management Specialist I",
-   "employer": "Elevance Health",
-   "location": "WI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:42",
-   "url": "https://veritahire.com/j/104193074"
-  },
-  {
-   "title": "Analyst I, Complaint Investigation",
-   "employer": "BD",
-   "location": "GA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:22",
-   "url": "https://veritahire.com/j/104182273"
-  },
-  {
-   "title": "Entry Level Field Customer Service Representative",
-   "employer": "Danella Companies",
-   "location": "Williamstown, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:07",
-   "url": "https://veritahire.com/j/104177061"
-  },
-  {
-   "title": "Orthopaedic Advanced Practice Clinician - Bucks Campus (per diem)",
-   "employer": "Jefferson Health (Thomas Jefferson University Hospitals)",
-   "location": "Bucks County, PA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 19:06",
-   "url": "https://veritahire.com/j/104176896"
-  },
-  {
-   "title": "Personal Banker Associate I - Nashville",
-   "employer": "Fifth Third Bank",
-   "location": "Nashville, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:52",
-   "url": "https://veritahire.com/j/104170142"
-  },
-  {
-   "title": "Jr. Supply Chain Associate",
-   "employer": "L'Oreal (incl. SalonCentric)",
-   "location": "Walton, KY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:43",
-   "url": "https://veritahire.com/j/104168980"
-  },
-  {
-   "title": "Junior Human Resources Associate - North Little Rock",
-   "employer": "L'Oreal (incl. SalonCentric)",
-   "location": "North Little Rock, AR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:43",
-   "url": "https://veritahire.com/j/104168982"
-  },
-  {
-   "title": "Research and Data Analyst I",
-   "employer": "The University of Memphis",
-   "location": "Memphis, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:24",
-   "url": "https://veritahire.com/j/104166703"
-  },
-  {
-   "title": "DVM Mission Launch: Externship + New Grad Opportunity",
-   "employer": "Mission Pet Health",
-   "location": "Boiling Springs, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:27",
-   "url": "https://veritahire.com/j/104166588"
-  },
-  {
-   "title": "Phlebotomy Technician I - Night Shift",
-   "employer": "Munson Healthcare",
-   "location": "Traverse City, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:23",
-   "url": "https://veritahire.com/j/104164387"
-  },
-  {
-   "title": "Controls & Automation - Panel Shop Technician I",
-   "employer": "Dnow",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:14",
-   "url": "https://veritahire.com/j/104157645"
-  },
-  {
-   "title": "Technical Support Analyst I",
-   "employer": "Halifax Health",
-   "location": "Daytona Beach, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:13",
-   "url": "https://veritahire.com/j/104153151"
-  },
-  {
-   "title": "Grant/Accounting Analyst 1- Billing (Entry Level)",
-   "employer": "Louisiana State University",
-   "location": "MO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:11",
-   "url": "https://veritahire.com/j/104152629"
-  },
-  {
-   "title": "AV Operations Analyst 1",
-   "employer": "Louisiana State University",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:11",
-   "url": "https://veritahire.com/j/104152625"
-  },
-  {
-   "title": "Engineer I Civil/Structural",
-   "employer": "Zachry Group",
-   "location": "Omaha, NE",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:07",
-   "url": "https://veritahire.com/j/104148719"
-  },
-  {
-   "title": "Service Technician 1",
-   "employer": "Weidner Apartment Homes",
-   "location": "Anchorage, AK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:51",
-   "url": "https://veritahire.com/j/104133237"
-  },
-  {
-   "title": "Process Technician I (Fiber) - 1st shift",
-   "employer": "Mec (mayville Engineering Company, Inc.)",
-   "location": "Hazel Park, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:26",
-   "url": "https://veritahire.com/j/104129312"
-  },
-  {
-   "title": "Process Technician I (fiber) - 3rd shift",
-   "employer": "Mec (mayville Engineering Company, Inc.)",
-   "location": "Hazel Park, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:26",
-   "url": "https://veritahire.com/j/104129313"
-  },
-  {
-   "title": "Process Technician I (fiber) - 2nd shift",
-   "employer": "Mec (mayville Engineering Company, Inc.)",
-   "location": "Hazel Park, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:26",
-   "url": "https://veritahire.com/j/104129315"
-  },
-  {
-   "title": "R&D ENGINEER I",
-   "employer": "Moses Lake Industries",
-   "location": "Mesa, AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:26",
-   "url": "https://veritahire.com/j/104129058"
-  },
-  {
-   "title": "Production Technician 1 (5099)",
-   "employer": "Natalie's Orchid Island Juice Company",
-   "location": "Vero Beach, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:25",
-   "url": "https://veritahire.com/j/104128682"
-  },
-  {
-   "title": "Software Engineer - New Grad",
-   "employer": "Coderabbit",
-   "location": "Remote (San Francisco, CA)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:23",
-   "url": "https://veritahire.com/j/104123868"
-  },
-  {
-   "title": "Veh Tech/Trainee",
-   "employer": "Fedex",
-   "location": "Detroit, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:20",
-   "url": "https://veritahire.com/j/104121146"
-  },
-  {
-   "title": "Manufacturing Engineer I",
-   "employer": "Blast Cleaning Technologies, Inc.",
-   "location": "West Allis, WI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:14",
-   "url": "https://veritahire.com/j/104118671"
-  },
-  {
-   "title": "Production Technician I (2nd Shift)",
-   "employer": "Cti Foods",
-   "location": "Owingsville, KY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:14",
-   "url": "https://veritahire.com/j/104118070"
-  },
-  {
-   "title": "Patient Access Specialist I ED",
-   "employer": "Wellstar Health System",
-   "location": "Marietta, GA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:19",
-   "url": "https://veritahire.com/j/104116966"
-  },
-  {
-   "title": "Patient Access Specialist I PRN as Needed - Vary",
-   "employer": "Wellstar Health System",
-   "location": "Austell, GA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:18",
-   "url": "https://veritahire.com/j/104116889"
-  },
-  {
-   "title": "Research Associate 1",
-   "employer": "University of Miami School of Education and Human Development",
-   "location": "Miami, FL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:08",
-   "url": "https://veritahire.com/j/104110175"
-  },
-  {
-   "title": "RN - CTICU (New Grad) Jefferson",
-   "employer": "Highmark Health",
-   "location": "PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:59",
-   "url": "https://veritahire.com/j/104104985"
-  },
-  {
-   "title": "Patient Host or Hostess (FT Rotational) Wexford Hospital",
-   "employer": "Highmark Health",
-   "location": "PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:59",
-   "url": "https://veritahire.com/j/104104977"
-  },
-  {
-   "title": "RN - Emergency Dept (New Grad) Jefferson",
-   "employer": "Highmark Health",
-   "location": "PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:59",
-   "url": "https://veritahire.com/j/104104982"
-  },
-  {
-   "title": "Payments Operations Analyst I - Remote",
-   "employer": "BankUnited",
-   "location": "Remote (Miami Lakes, FL)",
-   "remote": true,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:56",
-   "url": "https://veritahire.com/j/104102936"
-  },
-  {
-   "title": "Patient Care Technician I (Part-time) - Emergency Department",
-   "employer": "UPMC",
-   "location": "Altoona, PA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:48",
-   "url": "https://veritahire.com/j/104102813"
-  },
-  {
-   "title": "Production Operation Associate I",
-   "employer": "Fis",
-   "location": "San Antonio, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:43",
-   "url": "https://veritahire.com/j/104101221"
-  },
-  {
-   "title": "Pharmacy Technician I",
-   "employer": "Shannon Medical Center",
-   "location": "San Angelo, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:46",
-   "url": "https://veritahire.com/j/104099300"
-  },
-  {
-   "title": "<![CDATA[Professor of Practice - Finance & Graduate Professional Programs]]>",
-   "employer": "University of Houston System",
-   "location": "Houston, TX",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:37",
-   "url": "https://veritahire.com/j/104099163"
-  },
-  {
-   "title": "Registered Nurse- Medical Surgical Department- Full Time- (New Grads Welcome to Appy $10,000 Sign-On-Bonus)",
-   "employer": "Mercy",
-   "location": "OK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:42",
-   "url": "https://veritahire.com/j/104095671"
-  },
-  {
-   "title": "Junior Structural Engineer - Existing Structures",
-   "employer": "Walker Consultants",
-   "location": "Waltham, MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:43",
-   "url": "https://veritahire.com/j/104094045"
-  },
-  {
-   "title": "Assistant Professor - Cancer Biology - Wake Forest University School of Medicine (WFUSM)",
-   "employer": "Advocate Health (careers.advocatehealth.org)",
-   "location": "Winston Salem, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:36",
-   "url": "https://veritahire.com/j/104092782"
-  },
-  {
-   "title": "LPN - Skilled Nursing Facility SNF - Ochsner West Campus Post Acute Care Center - Full Time - Nights",
-   "employer": "Ochsner Rush Health",
-   "location": "Location: New Orleans, LA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:48",
-   "url": "https://veritahire.com/j/104091608"
-  },
-  {
-   "title": "Pharmacy Technician, Certified or Trainee - Central Pharmacy, 100% PM",
-   "employer": "University of Iowa",
-   "location": "Iowa City, IA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104087978"
-  },
-  {
-   "title": "Labor Center Pre-Apprenticeship Program Coordinator",
-   "employer": "University of Iowa",
-   "location": "Iowa City, IA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104087980"
-  },
-  {
-   "title": "Engineer 1",
-   "employer": "Highgate Hotels (incl. Lotte New York Palace)",
-   "location": "Buffalo, NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:32",
-   "url": "https://veritahire.com/j/104082454"
-  },
-  {
-   "title": "Service Technician I",
-   "employer": "Securitas Technology",
-   "location": "Miramar, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:15",
-   "url": "https://veritahire.com/j/104082015"
-  },
-  {
-   "title": "Registered Nurse RN New Grad Emergency Ctr",
-   "employer": "Banner Health",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:28",
-   "url": "https://veritahire.com/j/104081991"
-  },
-  {
-   "title": "Management Trainee",
-   "employer": "Enterprise Holdings",
-   "location": "UT",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104081898"
-  },
-  {
-   "title": "Management Trainee - Beavercreek/Fairborn, OH",
-   "employer": "Enterprise Holdings",
-   "location": "OH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104081877"
-  },
-  {
-   "title": "Management Trainee - Washtenaw County, MI",
-   "employer": "Enterprise Holdings",
-   "location": "MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104081852"
-  },
-  {
-   "title": "ER Technician I, Full-Time, Days, DMH",
-   "employer": "Huntsville Hospital",
-   "location": "Decatur, AL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:31",
-   "url": "https://veritahire.com/j/104081793"
-  },
-  {
-   "title": "Quality Technician I",
-   "employer": "Roseburg Forest Products",
-   "location": "Dillard, OR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 04:58",
-   "url": "https://veritahire.com/j/104073422"
-  },
-  {
-   "title": "Junior Data Engineer",
-   "employer": "Greatwater 360 Auto Care",
-   "location": "Kentwood, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:26",
-   "url": "https://veritahire.com/j/104069763"
-  },
-  {
-   "title": "Union Apprentice",
-   "employer": "APi Group",
-   "location": "Mobile, AL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:24",
-   "url": "https://veritahire.com/j/104065710"
   },
   {
    "title": "Developmental Specialist I - Developmental Screening & Enhancement Program (Casual)",
@@ -2918,7 +2423,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:28",
+   "last_confirmed": "2026-11-28 01:47",
    "url": "https://veritahire.com/j/105024460"
   },
   {
@@ -2929,8 +2434,8 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:48",
-   "url": "https://veritahire.com/j/104920640"
+   "last_confirmed": "2026-11-28 00:07",
+   "url": "https://veritahire.com/j/104920641"
   },
   {
    "title": "Apprentice Diesel Tech-Mechanic",
@@ -2940,7 +2445,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:15",
+   "last_confirmed": "2026-11-27 22:28",
    "url": "https://veritahire.com/j/104834596"
   },
   {
@@ -2951,7 +2456,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 03:56",
+   "last_confirmed": "2026-11-27 17:39",
    "url": "https://veritahire.com/j/104658820"
   },
   {
@@ -2962,19 +2467,8 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 02:34",
+   "last_confirmed": "2026-11-28 02:26",
    "url": "https://veritahire.com/j/104640921"
-  },
-  {
-   "title": "Graduate Assistant, Research (Smith)",
-   "employer": "University of Hawai'i",
-   "location": "Hilo, HI",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 01:43",
-   "url": "https://veritahire.com/j/104500565"
   },
   {
    "title": "Service Tech Trainee (TALLAHASSEE, FL AREA)",
@@ -2984,7 +2478,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 00:17",
+   "last_confirmed": "2026-11-28 02:32",
    "url": "https://veritahire.com/j/104423229"
   },
   {
@@ -2995,7 +2489,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:07",
+   "last_confirmed": "2026-11-28 01:15",
    "url": "https://veritahire.com/j/104351049"
   },
   {
@@ -3006,7 +2500,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 23:04",
+   "last_confirmed": "2026-11-28 01:24",
    "url": "https://veritahire.com/j/104339710"
   },
   {
@@ -3017,7 +2511,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:47",
+   "last_confirmed": "2026-11-28 00:03",
    "url": "https://veritahire.com/j/104269954"
   },
   {
@@ -3028,7 +2522,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:48",
+   "last_confirmed": "2026-11-27 23:57",
    "url": "https://veritahire.com/j/104267893"
   },
   {
@@ -3039,30 +2533,19 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 21:38",
+   "last_confirmed": "2026-11-27 23:51",
    "url": "https://veritahire.com/j/104261720"
   },
   {
-   "title": "7a-7p - Behavioral Health Associate 1",
+   "title": "3p-11p - Behavioral Health Associate 1",
    "employer": "Acadia Healthcare (Facility Jobs)",
    "location": "Pontotoc, MS",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:59",
-   "url": "https://veritahire.com/j/104230290"
-  },
-  {
-   "title": "7p-7a - Behavioral Health Associate 1",
-   "employer": "Acadia Healthcare (Facility Jobs)",
-   "location": "Pontotoc, MS",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:59",
-   "url": "https://veritahire.com/j/104230291"
+   "last_confirmed": "2026-11-27 23:18",
+   "url": "https://veritahire.com/j/104230293"
   },
   {
    "title": "11p-7a - Behavioral Health Associate 1",
@@ -3072,239 +2555,19 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 20:59",
+   "last_confirmed": "2026-11-27 23:18",
    "url": "https://veritahire.com/j/104230292"
   },
   {
-   "title": "Database Analyst I/II",
-   "employer": "Kern County, CA",
-   "location": "Kern County, CA",
+   "title": "7p-7a - Behavioral Health Associate 1",
+   "employer": "Acadia Healthcare (Facility Jobs)",
+   "location": "Pontotoc, MS",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:53",
-   "url": "https://veritahire.com/j/104170930"
-  },
-  {
-   "title": "R00122427 AV Operations Analyst 1",
-   "employer": "State of Louisiana",
-   "location": "LA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:42",
-   "url": "https://veritahire.com/j/104169170"
-  },
-  {
-   "title": "Sales Associate I Bristol Store",
-   "employer": "Goodwill of Orange County",
-   "location": "Santa Ana, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:10",
-   "url": "https://veritahire.com/j/104154066"
-  },
-  {
-   "title": "Automation Engineer I/II - DeltaV",
-   "employer": "Novo Nordisk",
-   "location": "Clayton, NC",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:10",
-   "url": "https://veritahire.com/j/104152533"
-  },
-  {
-   "title": "Highway Maintenance Worker Trainee",
-   "employer": "State of Kansas",
-   "location": "Chautauqua County, KS",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:09",
-   "url": "https://veritahire.com/j/104151002"
-  },
-  {
-   "title": "Highway Maintenance Worker Trainee - Bridge Crew",
-   "employer": "State of Kansas",
-   "location": "Norton County, KS",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:09",
-   "url": "https://veritahire.com/j/104151007"
-  },
-  {
-   "title": "Apprentice, Analog Press - OnCall",
-   "employer": "The Imagine Group",
-   "location": "CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 18:08",
-   "url": "https://veritahire.com/j/104150265"
-  },
-  {
-   "title": "Research Associate I",
-   "employer": "City of Hope",
-   "location": "Duarte, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:51",
-   "url": "https://veritahire.com/j/104135669"
-  },
-  {
-   "title": "New Graduate Licensed Practical Nurse (Massachusetts)",
-   "employer": "Innovive Health",
-   "location": "MA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:30",
-   "url": "https://veritahire.com/j/104126875"
-  },
-  {
-   "title": "Critical Operations Technician I",
-   "employer": "QTS",
-   "location": "IA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:29",
-   "url": "https://veritahire.com/j/104123576"
-  },
-  {
-   "title": "Overnight Traveling Electrical Assistant (Entry Level)",
-   "employer": "Blast Cleaning Technologies, Inc.",
-   "location": "West Allis, WI",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:14",
-   "url": "https://veritahire.com/j/104118280"
-  },
-  {
-   "title": "Production Technician I (1st Shift)",
-   "employer": "Cti Foods",
-   "location": "Owingsville, KY",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:14",
-   "url": "https://veritahire.com/j/104118121"
-  },
-  {
-   "title": "Workforce Development Program Instructor",
-   "employer": "Community Services For the Developmentally Disabled",
-   "location": "Buffalo, NY",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:13",
-   "url": "https://veritahire.com/j/104117228"
-  },
-  {
-   "title": "Provost - University of North Texas at Dallas",
-   "employer": "University of North Texas System",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 17:18",
-   "url": "https://veritahire.com/j/104114299"
-  },
-  {
-   "title": "Hookup Construction Engineer I",
-   "employer": "TSMC",
-   "location": "Phoenix, AZ",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:42",
-   "url": "https://veritahire.com/j/104099000"
-  },
-  {
-   "title": "Radiologic Technologist I - Clear Lake Campus (up to 19 hrs/wk)",
-   "employer": "UTMB Health",
-   "location": "Webster, TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:43",
-   "url": "https://veritahire.com/j/104095613"
-  },
-  {
-   "title": "Research Associate I, Pathology Research (Galveston)",
-   "employer": "UTMB Health",
-   "location": "Galveston, TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:43",
-   "url": "https://veritahire.com/j/104095615"
-  },
-  {
-   "title": "Crop Consultant Trainee",
-   "employer": "Nutrien",
-   "location": "MI",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-26 16:35",
-   "url": "https://veritahire.com/j/104093508"
-  },
-  {
-   "title": "Pool Maintenance Specialist Trainee",
-   "employer": "Sps Poolcare",
-   "location": "TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:47",
-   "url": "https://veritahire.com/j/104092182"
-  },
-  {
-   "title": "Assistant Dean, Student Affairs (University of Iowa College of Law)",
-   "employer": "University of Iowa",
-   "location": "Iowa City, IA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:39",
-   "url": "https://veritahire.com/j/104087977"
-  },
-  {
-   "title": "IT Technician I",
-   "employer": "Banner Health",
-   "location": "AZ",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-11-26",
-   "last_confirmed": "2026-11-27 05:28",
-   "url": "https://veritahire.com/j/104081987"
+   "last_confirmed": "2026-11-27 23:18",
+   "url": "https://veritahire.com/j/104230291"
   }
  ]
 }
